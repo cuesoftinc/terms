@@ -1,0 +1,13 @@
+{
+  "name": "terms",
+  "version": "1.0.0",
+  "description": "Cuesoft Terms of Service — markdown source, built into the brand template.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "marked": "^14.1.4"
+  }
+}
