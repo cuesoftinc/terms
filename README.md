@@ -1,94 +1,70 @@
-# TERMS OF SERVICE 
-Welcome to Cuesoft! These Terms of Service govern your access to and use of all services offered by Cuesoft, including Cuesoft Talent Academy (CueTA™) and Cuesoft DevLabs (CueLABS™). By using our services, you agree to these Terms. If you do not agree, please do not use our services. 
+# Terms of Service
 
-## COMPANY MISSION, VISION, and VALUES
-VISION
-To be a leader in transforming education and enhancing digital literacy across Africa, ultimately boosting the continent’s overall productivity.
-MISSION
-To leverage artificial intelligence to improve the quality of education and increase digital literacy, empowering individuals across Africa to achieve higher productivity and growth.
+**Effective date: 16 August 2026**
 
-## OUR CORE VALUES – “IMPACT”
-*	I – Innovation: Leveraging AI to revolutionize education and digital access.
-*	M – Mastery: Upholding integrity, excellence, and ethical practices.
-*	P – Partnership: Collaborating with global institutions for scalable solutions.
-*	A – Accessibility: Ensuring inclusive, equitable access to learning and development.
-*	C – Capability: Empowering individuals with relevant digital and AI skills.
-*	T – Transformation: Committing to meaningful, measurable, and lasting change.
- 
-## OUR COMMITMENT TO THE SUSTAINABLE DEVELOPMENT GOALS (SDGS) 
-Cuesoft aligns with the following United Nations Sustainable Development Goals:
-*	SDG 4 – Quality Education: Delivering inclusive, equitable, and AI-powered education.
-*	SDG 8 – Decent Work and Economic Growth: Increasing employability and productivity through digital literacy.
-*	SDG 9 – Industry, Innovation, and Infrastructure: Promoting technological advancement through open-source and AI-driven innovation.
-*	SDG 17 – Partnerships for the Goals: Collaborating with global and local partners to scale impact.
+These Terms of Service ("Terms") govern your access to and use of the
+websites and programmes operated by **Cuesoft Inc.** (a Delaware
+corporation, 8 The Green, Suite 300, Dover, DE 19901, United States) and
+**Cuesoft Nigeria Limited** (RC1624434, 39 Alfred Rewane Road, 3rd Floor
+Mulliner Towers, Ikoyi, Lagos, Nigeria) — together, "Cuesoft", "we", "us".
 
-## DEFINITIONS
-*	“Cuesoft”: The AI and software development company providing CueTA™ and CueLABS™ services.
-*	“CueTA™”: Cuesoft Talent Academy, the EdTech division focused on AI/ML education.
-*	“CueLABS™”: Cuesoft DevLabs, the innovation and talent outsourcing division.
-*	“Platform”: Digital infrastructure for accessing Cuesoft’s programs and services.
-*	“Participant”: An individual enrolled in CueTA™ programs.
-*	“Contractor”: A professional offering services through CueLABS™.
-*	“Company”: A client or organization seeking services via CueLABS™.
-*	“User”: Anyone interacting with Cuesoft’s services or platforms.
+By using any of the Websites, you agree to these Terms. If you do not
+agree, do not use them. You must be at least **18 years old** to apply to a
+Cuesoft programme or submit personal information through our forms.
 
-## SCOPE OF SERVICES
-1. Cuesoft Talent Academy (CueTA™)
-*	Develop and deploy AI-driven educational tools and platforms tailored to the needs of African learners.
-*	Collaborate with educational institutions to integrate AI technologies into their curricula.
-*	Conduct workshops and training sessions to enhance digital skills at community levels.
-*	Measure and analyze the impact of AI intervention educational outcomes and productivity metrics.
-2. Cuesoft Devlabs (CueLABS™)
-*	Foster innovation by making AI educational technologies available for public use.
-*	Manage the outsourcing of skilled engineers to various companies, ensuring high standards and ethical practices.
-*	Support open sourcing initiatives to contribute to the global tech community.
-*	Facilitate talent management to ensure the right fit between engineers and companies, enhancing productivity and growth.
+**Signed agreements prevail.** Where you and Cuesoft sign a separate
+written agreement — an offer of admission, an internship agreement, a
+contractor agreement, an engagement proposal or a licence — that agreement
+governs its subject matter and prevails over these Terms wherever they
+differ.
 
-## ELIGIBILITY 
-CueTA™ is open globally to learners with a passion for AI and tech. 
-CueLABS™ services are available to pre-qualified contractors and companies under contractual agreements.
+**No payment is ever taken on our websites.** The Websites carry no
+checkout and request no card details. Any pricing that applies to you is
+stated on the relevant page (CueTA™ tuition appears only on its
+application page) or in a written proposal, and is transacted off-site
+under a signed agreement or invoice.
 
-## PAYMENTS AND FEES
-1. CueTA™ Certificate Fees
-*	Participation in CueTA™ is free. However, to obtain a certificate, participants must pay a fee of ₦250,000 (for Nigerians) or $250 (for non-Nigerians).
-*	The fee can be paid in four equal monthly installments, due at the start of each month of the program.
-*	Certificates will only be issued upon full payment. Fees are non-refundable, except in exceptional, documented cases, subject to Cuesoft’s discretion.
-*	Cuesoft may, at its sole discretion, offer discounts on the certificate fee based on individual circumstances. All discount decisions are final and non-negotiable.
-2. CueLABS™ Engagement Fees
-*	Cuesoft facilitates payments between Companies and Contractors and charges a service fee, typically a percentage of the total project cost, as agreed in the engagement contract.
-*	All payments will be made through Cuesoft, which handles invoicing, collections, and disbursements to Contractors upon completion or milestone approval.
-*	Payments must be made in Naira or USD, as agreed. Applicable taxes, such as VAT, may apply.
+## Definitions
 
-## INTELLECTUAL PROPERTY
-1. CueTA™ participants: Participants in the Academy may have the opportunity to develop software, create inventions, or contribute to innovative projects as part of the program curriculum. Any software developed, inventions created, or intellectual property generated by participants during the Talent Academy are considered works made for hire and are owned exclusively by Cuesoft.
-2. CueLABS™ contractors:All projects executed through CueLABS™ shall be governed by the specific terms of each engagement. By default, all intellectual property created by a Contractor during the course of a project shall belong to the Company that commissioned the work, provided full payment has been made.
+- **"Websites"** — [cuesoft.io](https://cuesoft.io),
+  [cueta.cuesoft.io](https://cueta.cuesoft.io),
+  [cuelabs.cuesoft.io](https://cuelabs.cuesoft.io),
+  [cuehire.cuesoft.io](https://cuehire.cuesoft.io), and the pages at
+  handbook.cuesoft.io, privacy.cuesoft.io and terms.cuesoft.io.
+  A **"Website"** is any one of them.
+- **"CueTA™"** — Cuesoft Talent Academy, our paid AI academy.
+- **"CueLABS™"** — our open-source internship programme.
+- **"CueHIRE™"** — the Cuesoft Talent and Project Management Agency.
+- **"Cueprise™"** — our enterprise business management platform, licensed
+  to organisations under separate written agreements.
+- **"Ace"** — the AI assistant available on the Websites.
+- **"You"** — anyone who uses a Website or participates in a Cuesoft
+  programme.
 
-## CONFIDENTIALITY & NON DISCLOSURE
-By engaging with any Cuesoft platform including CueTA™ and CueLABS™, all Users (Participants, Contractors, and Companies) are deemed to be under an implied Non-Disclosure Agreement.
-Users agree not to disclose, share, reproduce, or make unauthorized use of any confidential or proprietary information received, accessed, or developed during the course of their engagement with Cuesoft.
-“Confidential Information” shall be all information marked as “confidential”, or oral information which is subsequently confirmed in text form (e.g. by email) and marked as confidential, as well as information whose confidential nature is clear from its content or from the circumstances under which it was disclosed. Confidential information shall include the content of any commercial agreements between the Parties. If there is any doubt as to the confidential nature of information, the Party considering disclosure of this information shall contact the other Party without undue delay to seek clarification, in any event before disclosing the information to third parties.
-  
-## FORCE MAJEURE 
-Neither Party shall be liable for default of any obligation hereunder if such default results from a force majeure (which includes, without limitation, governmental acts or directives, acts of God, terrorism, war, insurrection, riot or civil commotion, flooding, or embargoes) which is not within the reasonable control of the Party affected (”Force Majeure”). In such events, the affected Party (the “Affected Party”) shall, without undue delay, inform the other Party (the “Unaffected Party”) of such circumstances together with documents of proof; and the performance of obligations hereunder shall be suspended during, but not longer than, the period of existence of such cause and the period reasonably required to perform the affected obligations in such cases. 
-Should a cause of Force Majeure relating to a material obligation of the Affected Party continue for more than one (1) month, the Parties shall discuss in good faith the performance of each Party’s obligations hereunder. 
+## How these Terms are organised
 
-## CODE OF CONDUCT
-All participants must adhere to respectful, collaborative, and ethical standards. Misconduct, including plagiarism, harassment, or disruption, may lead to termination.
+| Section | What it covers |
+| --- | --- |
+| [Using the Websites](websites/) | Acceptable use, content, third-party links, and [Ace](websites/ace/). |
+| Programmes | [CueTA™](programmes/cueta/), [CueLABS™](programmes/cuelabs/), [CueHIRE™](programmes/cuehire/) and the [media properties](programmes/media/). |
+| [Cueprise™ Platform Terms](cueprise/) | A standalone document for our licensed enterprise platform and its authorised users. |
+| Legal terms | [Intellectual property](legal/intellectual-property/), [confidentiality](legal/confidentiality/), [liability](legal/liability/), [termination and force majeure](legal/termination/), and the [general clauses](legal/general/). |
+| Jurisdictions | Your governing law and forum in [Nigeria](jurisdictions/nigeria/), the [United States](jurisdictions/united-states/) and the [EU/UK](jurisdictions/eu-uk/). |
 
-## TERMINATION
-Cuesoft may terminate or suspend any User’s access to CueTA™ or CueLABS™ at any time for violations of these Terms, misconduct, non-compliance, or failure to meet payment obligations.
-Users may also terminate their engagement by providing written notice. However, no refunds will be issued for previously paid fees unless expressly agreed.
-Upon termination, Users will lose access to all platforms and resources, and any pending deliverables or payments will be handled according to the relevant agreement.
+## Privacy
 
-## GOVERNING LAW AND DISPUTE RESOLUTION
-These Terms of Service are governed by the laws of the Federal Republic of Nigeria.
-In the event of a dispute regarding payments or services rendered, Cuesoft will mediate and facilitate resolution between the parties involved. If dispute is not amicably settled within 30 days of notice proposing settlement thereof by Cuesoft, the same shall be referred to arbitration before a single arbitrator who shall be appointed in accordance with the provisions of the Arbitration and conciliation Act. Cap A18, Laws of the Federation of Nigeria (LFN) 2004, and whose decision shall be conclusive, final and binding on both Parties. Each Party will bear its own costs and the language to be used shall be English. The seat of the arbitration shall be Lagos, Nigeria.
+Our [Privacy Policy](https://privacy.cuesoft.io) explains what each website
+collects and your rights over it, including under Nigerian, EU/UK and US
+law. It is a notice, not a contract, and does not form part of these
+Terms.
 
-## AMENDMENTS
-Cuesoft may revise these Terms at any time. Continued use of services after updates constitutes acceptance.
+## Changes to these terms
 
-## SEVERABILITY
-Any invalid provision shall be severed or modified, and remaining provisions shall remain in full force and effect. 
+We may revise these Terms; the effective date above changes when we do, and
+material changes are announced on the affected Websites. Continued use
+after a revision is acceptance of it.
 
-## CONTACT US
-For any inquiries or concerns regarding these Terms of Service, please contact us at support@cuesoft.io. 
+## Contact
+
+Questions about these Terms: [hello@cuesoft.io](mailto:hello@cuesoft.io) ·
++1 302 670 7551 (US) · +234 915 880 1821 (Nigeria).
