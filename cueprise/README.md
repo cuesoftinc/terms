@@ -1,6 +1,6 @@
 # Cueprise™ Platform Terms
 
-**Effective date: 16 August 2026**
+**Effective date: 17 August 2026**
 
 These Platform Terms govern access to and use of **Cueprise™**, Cuesoft's
 enterprise business management platform. Cueprise™ is licensed to
@@ -64,6 +64,18 @@ Terms, which prevail over the general
 3. Cuesoft may update the platform to improve security, comply with law or
    evolve functionality, and will not materially degrade licensed
    functionality during a paid term.
+
+## Storefronts
+
+Cueprise™ can power a Licensee's public online store. A storefront is
+**the Licensee's own service**: it runs under the Licensee's brand, its
+sales are between the shopper and the Licensee, and the Licensee's own
+terms of sale and privacy notice govern it. Cuesoft is not a party to any
+storefront sale, is not the seller of the Licensee's products, and takes
+no payment from shoppers; online storefront payments are processed by
+Paystack under the Licensee's arrangement with it. How shopper data is
+handled inside the platform is described in the
+[Cueprise™ Privacy Notice](https://privacy.cuesoft.io/cueprise/).
 
 ## Fees
 
