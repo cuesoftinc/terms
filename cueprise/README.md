@@ -1,6 +1,6 @@
 # Cueprise™ Platform Terms
 
-**Effective date: 16 August 2026**
+**Effective date: 17 August 2026**
 
 These Platform Terms govern access to and use of **Cueprise™**, Cuesoft's
 enterprise business management platform. Cueprise™ is licensed to
@@ -15,9 +15,11 @@ Terms, which prevail over the general
 ## Access and authorised users
 
 1. Access to Cueprise™ is provisioned under a Licensee's agreement. If you
-   use Cueprise™, you do so as an **authorised user** of a Licensee — your
-   organisation's rules and your organisation's agreement with Cuesoft
-   govern your access.
+   sign in to Cueprise™, you do so as an **authorised user** of a Licensee —
+   your organisation's rules and your organisation's agreement with Cuesoft
+   govern your access. This section governs the Licensee's personnel;
+   shoppers on a Licensee's storefront are not authorised users and are
+   covered by the Storefronts section below.
 2. Accounts are personal to the authorised user. Do not share credentials;
    the Licensee is responsible for keeping its user list current and for
    the acts of its users.
@@ -30,7 +32,9 @@ Terms, which prevail over the general
 
 1. The Licensee receives the non-exclusive, non-transferable right to use
    the modules, user counts and environments stated in its agreement, for
-   its internal business operations, for the agreement's term.
+   its internal business operations and, where its agreement includes the
+   storefront module, for operating its own public storefront, for the
+   agreement's term.
 2. Except as the agreement expressly allows, no one may: copy, modify or
    create derivative works of the platform; reverse engineer, decompile or
    extract source code except where law permits notwithstanding this
@@ -44,7 +48,9 @@ Terms, which prevail over the general
 
 1. **Licensee data remains the Licensee's.** All data a Licensee or its
    users put into Cueprise™ — records, files, configurations, outputs
-   computed from them — belongs to the Licensee.
+   computed from them — belongs to the Licensee. Data collected through a
+   Licensee's storefront, including shoppers' orders and contact details,
+   is Licensee data on the same footing.
 2. Cuesoft processes Licensee data only to provide and support the
    platform, under the agreement's data terms and the
    [Cueprise™ Privacy Notice](https://privacy.cuesoft.io/cueprise/).
@@ -64,6 +70,18 @@ Terms, which prevail over the general
 3. Cuesoft may update the platform to improve security, comply with law or
    evolve functionality, and will not materially degrade licensed
    functionality during a paid term.
+
+## Storefronts
+
+Cueprise™ can power a Licensee's public online store. A storefront is
+**the Licensee's own service**: it runs under the Licensee's brand, its
+sales are between the shopper and the Licensee, and the Licensee's own
+terms of sale and privacy notice govern it. Cuesoft is not a party to any
+storefront sale, is not the seller of the Licensee's products, and takes
+no payment from shoppers; online storefront payments are processed by
+Paystack under the Licensee's arrangement with it. How shopper data is
+handled inside the platform is described in the
+[Cueprise™ Privacy Notice](https://privacy.cuesoft.io/cueprise/).
 
 ## Fees
 
