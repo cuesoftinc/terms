@@ -33,12 +33,15 @@ EU/EEA or UK:
   [refund terms](../../programmes/cueta/) operate alongside it, and the
   more protective provision prevails.
 
-## Online dispute resolution
+## Out-of-court dispute resolution
 
-EU consumers can also use the European Commission's Online Dispute
-Resolution platform at
-[ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr/). Our
-contact for it is [hello@cuesoft.io](mailto:hello@cuesoft.io).
+The European Commission's Online Dispute Resolution platform closed on
+20 July 2025 under Regulation (EU) 2024/3228. EU consumers can find an
+approved out-of-court dispute resolution body for their country through
+the Commission's Consumer Redress portal at
+[consumer-redress.ec.europa.eu](https://consumer-redress.ec.europa.eu/dispute-resolution-bodies).
+Our contact for any such procedure is
+[hello@cuesoft.io](mailto:hello@cuesoft.io).
 
 ## Privacy
 
