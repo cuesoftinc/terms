@@ -23,7 +23,7 @@ governs each internship and prevails over this page wherever they differ.
 2. **Data allowance.** Cuesoft covers interns' connectivity costs through
    a monthly data allowance stated in the internship agreement.
 3. **Term and notice.** Internships run for the fixed term stated in the
-   agreement (typically six months) and either party may end one on the
+   agreement, three or six months, and either party may end one on the
    notice the agreement states.
 4. **What interns get.** Supervised production experience on live,
    MIT-licensed products with public commit histories under the intern's
