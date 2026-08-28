@@ -47,7 +47,7 @@ under a signed agreement or invoice.
 | --- | --- |
 | [Using the Websites](websites/) | Acceptable use, content, third-party links, and [Ace](websites/ace/). |
 | Programmes | [CueTA™](programmes/cueta/), [CueLABS™](programmes/cuelabs/), [CueHIRE™](programmes/cuehire/) and the [media properties](programmes/media/). |
-| [Cueprise™ Platform Terms](cueprise/) | A standalone document for our licensed enterprise platform and its authorised users. |
+| [Cueprise™ Terms](cueprise/) | A standalone document covering the Cueprise™ website and the licensed platform behind it. |
 | Legal terms | [Intellectual property](legal/intellectual-property/), [confidentiality](legal/confidentiality/), [liability](legal/liability/), [termination and force majeure](legal/termination/), and the [general clauses](legal/general/). |
 | Jurisdictions | Your governing law and forum in [Nigeria](jurisdictions/nigeria/), the [United States](jurisdictions/united-states/) and the [EU/UK](jurisdictions/eu-uk/). |
 
