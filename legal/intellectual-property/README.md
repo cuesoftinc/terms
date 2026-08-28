@@ -34,7 +34,7 @@ it.
   pre-existing tools, libraries and know-how remain Cuesoft's.
 - **Cueprise™** remains Cuesoft's exclusive property; licensee data
   remains the licensee's — see the
-  [Cueprise™ Platform Terms](../../cueprise/).
+  [Cueprise™ Terms](../../cueprise/).
 
 ## Infringement notices
 

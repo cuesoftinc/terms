@@ -1,18 +1,43 @@
-# Cueprise™ Platform Terms
+# Cueprise™ Terms
 
-**Effective date: 17 August 2026**
+**Effective date: 28 August 2026**
 
-These Platform Terms govern access to and use of **Cueprise™**, Cuesoft's
-enterprise business management platform. Cueprise™ is licensed to
-organisations ("**Licensees**") under separate written licensing
-agreements; nothing on the Websites grants any licence to Cueprise™.
+These terms cover **Cueprise™** in both the places you meet it: the website
+at **cueprise.cuesoft.io**, where you can read about the product and ask for
+a demo, and the **platform** itself, which is licensed to organisations
+("**Licensees**") under separate written licensing agreements.
+
+The distinction matters, because nothing on the website grants any licence to
+Cueprise™. Reading the site, asking for a demo and being given a walkthrough
+create no right to use the platform; that starts only with a signed agreement.
 
 **Order of precedence.** For any conflict, the signed licensing agreement
-(including its order forms and data terms) prevails over these Platform
-Terms, which prevail over the general
-[Terms of Service](../) for matters concerning the platform.
+(including its order forms and data terms) prevails over the Platform Terms
+below, which prevail over the general [Terms of Service](../) for matters
+concerning the platform.
 
-## Access and authorised users
+## The Cueprise™ website
+
+- **What the site is for.** cueprise.cuesoft.io describes the product and
+  lets you ask for a demonstration. Descriptions of features, modules and
+  integrations are provided in good faith and may change as the product
+  does; they are not a specification and not a promise of a particular
+  outcome for your business.
+- **A demo request starts a conversation, nothing more.** Submitting the
+  form creates no contract and no obligation on either side. No fee is
+  quoted on the site: a Cueprise™ licence is priced after a conversation.
+- **No payment is ever taken on the site.**
+- **Acceptable use, and everything else about using the site**, is governed
+  by [Using the Websites](../websites/), which applies to cueprise.cuesoft.io
+  exactly as it does to our other sites.
+- **What we do with what you submit** is set out in the
+  [Cueprise™ Privacy Notice](https://privacy.cuesoft.io/cueprise/).
+
+## The Cueprise™ platform
+
+Everything from here governs a licensed deployment rather than the website.
+
+### Access and authorised users
 
 1. Access to Cueprise™ is provisioned under a Licensee's agreement. If you
    sign in to Cueprise™, you do so as an **authorised user** of a Licensee —
@@ -28,7 +53,7 @@ Terms, which prevail over the general
    when the cause is resolved — notice and cure rights are as stated in
    the licensing agreement.
 
-## Licence and restrictions
+### Licence and restrictions
 
 1. The Licensee receives the non-exclusive, non-transferable right to use
    the modules, user counts and environments stated in its agreement, for
@@ -44,7 +69,7 @@ Terms, which prevail over the general
 3. Usage beyond the licensed scope (modules, seats, environments) is
    invoiced per the agreement or requires an amended order.
 
-## Licensee data
+### Licensee data
 
 1. **Licensee data remains the Licensee's.** All data a Licensee or its
    users put into Cueprise™ — records, files, configurations, outputs
@@ -58,7 +83,7 @@ Terms, which prevail over the general
    agreement provides; Cuesoft does not hold Licensee data hostage to a
    commercial dispute.
 
-## The platform
+### The platform
 
 1. **Cueprise™ and all Cuesoft platforms remain Cuesoft's exclusive
    intellectual property** — software, source code, architecture,
@@ -71,7 +96,7 @@ Terms, which prevail over the general
    evolve functionality, and will not materially degrade licensed
    functionality during a paid term.
 
-## Storefronts
+### Storefronts
 
 Cueprise™ can power a Licensee's public online store. A storefront is
 **the Licensee's own service**: it runs under the Licensee's brand, its
@@ -83,13 +108,13 @@ Paystack under the Licensee's arrangement with it. How shopper data is
 handled inside the platform is described in the
 [Cueprise™ Privacy Notice](https://privacy.cuesoft.io/cueprise/).
 
-## Fees
+### Fees
 
 Licence fees, payment schedules, taxes and late-payment consequences are
 stated in each licensing agreement. **No Cueprise™ fees are published on
 or payable through the Websites.**
 
-## Confidentiality, liability, law
+### Confidentiality, liability, law
 
 The licensing agreement's confidentiality, warranty, indemnity,
 limitation-of-liability, term, termination and governing-law clauses govern
