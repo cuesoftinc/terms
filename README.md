@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective date: 22 August 2026**
+**Effective date: 29 August 2026**
 
 These Terms of Service ("Terms") govern your access to and use of the
 websites and programmes operated by **Cuesoft Inc.** (a Delaware
