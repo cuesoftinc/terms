@@ -30,9 +30,9 @@ under a signed agreement or invoice.
   [cueta.cuesoft.io](https://cueta.cuesoft.io),
   [cuelabs.cuesoft.io](https://cuelabs.cuesoft.io),
   [cuehire.cuesoft.io](https://cuehire.cuesoft.io),
-  [storefront.cuesoft.io](https://storefront.cuesoft.io), and the pages at
-  [clients.cuesoft.io](https://clients.cuesoft.io), handbook.cuesoft.io,
-  privacy.cuesoft.io and terms.cuesoft.io.
+  [storefront.cuesoft.io](https://storefront.cuesoft.io),
+  [clients.cuesoft.io](https://clients.cuesoft.io), and the pages at
+  handbook.cuesoft.io, privacy.cuesoft.io and terms.cuesoft.io.
   A **"Website"** is any one of them.
 - **"CueTA™"** — Cuesoft Talent Academy, our paid AI academy.
 - **"CueLABS™"** — our open-source internship programme.
@@ -44,6 +44,13 @@ under a signed agreement or invoice.
   We build it at no charge, whether or not the business also licenses
   Cueprise™, and the build itself is delivered under a separate written
   agreement rather than under these Terms.
+- **"Client Work"** — Cuesoft's public case-study site at
+  [clients.cuesoft.io](https://clients.cuesoft.io), where we describe
+  selected product, design and engineering deliveries through CueHIRE™.
+  It is informational only: the site carries no accounts, contact forms or
+  payments, and reading it creates no engagement or obligation. Case studies
+  may link to a client's live website or to a public repository; those
+  destinations operate under their own terms.
 - **"Ace"** — the AI assistant available on the Websites.
 - **"You"** — anyone who uses a Website or participates in a Cuesoft
   programme.
