@@ -2,7 +2,7 @@
 
 Ace answers questions about Cuesoft using approved company information. Ace
 can make mistakes: its answers are provided as-is, are not advice, and do
-not form contractual commitments — the authoritative answer to anything
+not form contractual commitments: the authoritative answer to anything
 material is the relevant page, agreement or a reply from
 [hello@cuesoft.io](mailto:hello@cuesoft.io).
 

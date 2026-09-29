@@ -1,7 +1,7 @@
 # Nigeria
 
 This page states how these Terms operate for users whose relationship is
-with **Cuesoft Nigeria Limited** — everyone except users in the United
+with **Cuesoft Nigeria Limited**: everyone except users in the United
 States (see [United States](../united-states/)), and subject to the
 consumer protections preserved below and on the [EU/UK page](../eu-uk/).
 

@@ -1,4 +1,4 @@
-# CueLABS™ — Open-source Internship Terms
+# CueLABS™: Open-source Internship Terms
 
 These terms govern applications to and participation in CueLABS™, the
 Cuesoft open-source internship programme. The signed internship agreement
@@ -18,7 +18,7 @@ governs each internship and prevails over this page wherever they differ.
 
 1. **Unpaid, by design.** CueLABS™ internships are unpaid engagements
    governed by a signed internship agreement. They create **no employment
-   relationship** — no wages, benefits, leave entitlements or employment
+   relationship**: no wages, benefits, leave entitlements or employment
    rights arise, in any jurisdiction.
 2. **Data allowance.** Cuesoft covers interns' connectivity costs through
    a monthly data allowance stated in the internship agreement.
@@ -39,7 +39,7 @@ governs each internship and prevails over this page wherever they differ.
 1. Work product created during an internship is assigned to Cuesoft under
    the internship agreement.
 2. For the open-source products, Cuesoft publishes that work under the MIT
-   licence — the intern's authorship remains visible in the public commit
+   licence: the intern's authorship remains visible in the public commit
    history.
 3. Nothing in the programme assigns work an intern creates outside the
    internship's scope, on their own time and equipment.

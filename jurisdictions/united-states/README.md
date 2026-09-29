@@ -21,14 +21,14 @@ competent jurisdiction.
 
 ## Signed agreements
 
-Services provided under a signed agreement — a CueHIRE™ engagement, a
-Cueprise™ licence, an offer of admission — are governed by the law and
+Services provided under a signed agreement (a CueHIRE™ engagement, a
+Cueprise™ licence, an offer of admission) are governed by the law and
 forum stated in that agreement; this page fills the gap only where the
 agreement is silent.
 
 ## Consumer rights
 
-Some US states grant consumers rights that cannot be waived by contract —
+Some US states grant consumers rights that cannot be waived by contract,
 including warranty rights and remedies under state consumer-protection
 statutes. Nothing in these Terms limits those rights, and where a state's
 law makes a provision of these Terms unenforceable as to you, the
@@ -36,6 +36,6 @@ law makes a provision of these Terms unenforceable as to you, the
 
 ## Privacy
 
-US state privacy rights — including California CCPA/CPRA rights — are
+US state privacy rights (including California CCPA/CPRA rights) are
 described in the
 [Privacy Policy's United States section](https://privacy.cuesoft.io/jurisdictions/united-states/).

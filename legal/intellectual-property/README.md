@@ -2,14 +2,14 @@
 
 ## Our property
 
-1. The Websites and their content — text, design, code, marks, layouts and
-   media — are owned by Cuesoft or its licensors and protected by
+1. The Websites and their content (text, design, code, marks, layouts and
+   media) are owned by Cuesoft or its licensors and protected by
    copyright, trademark and other IP laws of Nigeria, the United States
    and other jurisdictions.
-2. **Cuesoft™, CueTA™, CueLABS™, CueHIRE™, Cueprise™, The CueShow™ and
-   The CueBlog™ are Cuesoft marks.** You may reference them accurately in
-   editorial contexts; you may not use them — or confusingly similar marks
-   — in a way that implies affiliation, endorsement or origin without
+2. **Cuesoft™, CueTA™, CueLABS™, CueHIRE™, Cueprise™, Cuelearn™, The
+   CueShow™ and The CueBlog™ are Cuesoft marks.** You may reference them accurately in
+   editorial contexts; you may not use them (or confusingly similar marks)
+   in a way that implies affiliation, endorsement or origin without
    written permission.
 3. Browsing the Websites grants you a personal, revocable, non-exclusive
    licence to view and cache their content for its intended purpose, and
@@ -25,15 +25,15 @@ it.
 ## Programme and engagement IP
 
 - **CueTA™ learners** own their project work; Cuesoft owns curriculum and
-  teaching materials — see the [CueTA™ terms](../../programmes/cueta/).
+  teaching materials: see the [CueTA™ terms](../../programmes/cueta/).
 - **CueLABS™ interns** assign internship work product to Cuesoft, which
-  publishes open-source work under MIT — see the
+  publishes open-source work under MIT: see the
   [CueLABS™ terms](../../programmes/cuelabs/).
 - **Client and contractor IP** follows the signed agreement: client
   deliverables transfer on payment as the agreement states; Cuesoft's
   pre-existing tools, libraries and know-how remain Cuesoft's.
 - **Cueprise™** remains Cuesoft's exclusive property; licensee data
-  remains the licensee's — see the
+  remains the licensee's: see the
   [Cueprise™ Terms](../../cueprise/).
 
 ## Infringement notices

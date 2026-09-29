@@ -1,10 +1,10 @@
 # General Clauses
 
 1. **Severability.** If any provision of these Terms is held invalid or
-   unenforceable, it is modified to the minimum extent necessary — or
-   severed — and the remainder stays in full effect.
+   unenforceable, it is modified to the minimum extent necessary, or
+   severed, and the remainder stays in full effect.
 2. **Entire agreement.** These Terms and the pages they reference are the
-   entire agreement between you and Cuesoft about use of the Websites —
+   entire agreement between you and Cuesoft about use of the Websites,
    subject always to the precedence of signed agreements stated on the
    [main page](../../).
 3. **Assignment.** You may not assign or transfer these Terms or any

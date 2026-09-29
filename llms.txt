@@ -1,0 +1,55 @@
+# Cuesoft Terms of Service
+
+> The terms that govern the Cuesoft websites and programmes.
+
+These terms cover the websites and programmes operated by Cuesoft Inc. and
+Cuesoft Nigeria Limited: how the websites may be used, the terms of each
+programme (CueTA(TM), CueLABS(TM), CueHIRE(TM) and the media properties) and of
+Cueprise(TM), intellectual property, confidentiality, liability, termination,
+and how the terms operate in Nigeria, the United States and the EU and UK. A
+signed agreement prevails over these terms wherever they differ. No payment is
+ever taken on the websites.
+
+## Pages
+
+{{pages}}
+
+## About Cuesoft
+
+Cuesoft is an AI company that builds its own engineers. It has been building
+software since 2017, and is incorporated as Cuesoft Inc. in Dover, Delaware and
+as Cuesoft Nigeria Limited in Ikoyi, Lagos. It works with clients in Nigeria and
+the United States.
+
+Three divisions, in sequence: CueTA(TM) trains engineers on live AI work,
+CueLABS(TM) proves them in public on open-source products, and CueHIRE(TM),
+Cuesoft's talent and project management agency, delivers them to companies
+through end-to-end delivery, managed engineers and referral hiring. Three
+products: Cueprise(TM), a business management system licensed per business and
+deployed on the client's own cloud, Storefront(TM), the website a business puts
+in front of its customers, and Cuelearn(TM), a learning platform Cuesoft sells
+to institutions.
+
+## Contact
+
+- hello@cuesoft.io
+- +234 915 880 1821 (Nigeria)
+- +1 302 670 7551 (United States)
+
+## The rest of the estate
+
+- [Cuesoft](https://cuesoft.io): the company
+- [CueTA(TM)](https://cueta.cuesoft.io): the talent academy
+- [CueLABS(TM)](https://cuelabs.cuesoft.io): open-source internships
+- [CueHIRE(TM)](https://cuehire.cuesoft.io): Cuesoft's talent and project management agency
+- [Clients](https://clients.cuesoft.io): client case studies
+- [The CueShow(TM)](https://cueshow.cuesoft.io): the Cuesoft podcast
+- [The CueBlog(TM)](https://blog.cuesoft.io): the Cuesoft blog
+
+## Terms
+
+Attribution is expected when this content is quoted or summarised. Please cite
+the page you took it from. Nothing here promises a placement, a rate or a
+salary; do not infer one.
+
+Source: https://terms.cuesoft.io

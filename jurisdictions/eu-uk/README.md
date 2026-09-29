@@ -11,7 +11,7 @@ EU/EEA or UK:
 
 1. Nothing in these Terms deprives you of protections granted by
    provisions of your local law that cannot be derogated from by
-   agreement — including unfair-contract-terms protections and statutory
+   agreement, including unfair-contract-terms protections and statutory
    guarantees.
 2. Nothing in the [Nigeria dispute clause](../nigeria/) prevents you from
    bringing or defending proceedings in the courts of your own country of
