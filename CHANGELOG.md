@@ -6,6 +6,20 @@ versions follow [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 Releases before 1.1.0 predate this file.
 
+## [1.1.2] - 2026-09-30
+
+### Changed
+
+- The share card is redrawn in the family design at 1200 by 628.
+
+### Added
+
+- A web manifest with the family icons.
+
+### Added
+
+- The build fails when the share card is older than the design system.
+
 ## [1.1.0] - 2026-09-29
 
 ### Added

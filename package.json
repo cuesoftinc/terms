@@ -1,6 +1,6 @@
 {
   "name": "terms",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Cuesoft Terms of Service: markdown source, built into the brand template.",
   "private": true,
   "type": "module",
