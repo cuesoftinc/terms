@@ -1,7 +1,7 @@
 # Confidentiality
 
 1. Where your engagement with Cuesoft exposes you to non-public
-   information — as a learner, intern, contractor, client or licensee —
+   information (as a learner, intern, contractor, client or licensee),
    your signed agreement's confidentiality terms apply and prevail.
 2. In the absence of a signed agreement, you agree to keep confidential
    any information that is marked confidential or is obviously
@@ -14,6 +14,6 @@
    independently. Disclosure compelled by law is permitted, with prompt
    notice to the discloser where lawful so it can seek protection.
 4. Confidentiality obligations **survive** the end of any engagement.
-5. Cuesoft protects confidential information you share with it — in
-   applications, enquiries and engagements — under the same standard and
+5. Cuesoft protects confidential information you share with it (in
+   applications, enquiries and engagements) under the same standard and
    under the [Privacy Policy](https://privacy.cuesoft.io).

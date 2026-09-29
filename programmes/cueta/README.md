@@ -1,4 +1,4 @@
-# CueTA™ — Cuesoft Talent Academy Terms
+# CueTA™: Cuesoft Talent Academy Terms
 
 These terms govern applications to and participation in CueTA™, the paid
 AI academy operated by Cuesoft. A signed offer of admission or enrolment
@@ -24,7 +24,7 @@ agreement prevails over this page wherever they differ.
    no other page or channel states pricing.
 2. Team enrolments under Tier 1 are priced per staff member.
 3. Tuition is invoiced and paid off-site under your offer of admission or
-   invoice — **never through the website**. The website takes no payment
+   invoice: **never through the website**. The website takes no payment
    and stores no payment details.
 4. An offer of admission lapses if the tuition it states is not paid by
    the date it states; a lapsed offer creates no obligation.
@@ -53,7 +53,7 @@ agreement prevails over this page wherever they differ.
    involves.
 3. **Certificates** are issued on successful completion of a programme, as
    defined by the completion criteria shared with the cohort. There is no
-   separate certificate fee. Certificates state completion — they are not
+   separate certificate fee. Certificates state completion: they are not
    professional licences or accreditations.
 
 ## Your work and our materials
@@ -72,8 +72,8 @@ agreement prevails over this page wherever they differ.
 
 Learners meet the standards of the
 [handbook](https://handbook.cuesoft.io) values and anti-harassment policy.
-Serious misconduct — including plagiarism, harassment and academic
-dishonesty — ends participation without refund, after the facts are heard.
+Serious misconduct (including plagiarism, harassment and academic
+dishonesty) ends participation without refund, after the facts are heard.
 
 ## No employment promise
 

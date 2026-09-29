@@ -3,12 +3,12 @@
 ## Disclaimers
 
 1. The Websites are provided **"as is" and "as available"**, without
-   warranties of any kind, express or implied — including merchantability,
+   warranties of any kind, express or implied (including merchantability,
    fitness for a particular purpose, non-infringement, accuracy and
-   uninterrupted availability — to the maximum extent permitted by law.
+   uninterrupted availability) to the maximum extent permitted by law.
 2. Website content is general information, not professional, legal,
    financial or career advice. Ace's answers are provided as-is and are
-   not commitments — see [Ace, the Assistant](../../websites/ace/).
+   not commitments: see [Ace, the Assistant](../../websites/ace/).
 3. Third-party platforms our content or links lead to are outside our
    control; we make no warranty for them.
 
@@ -18,7 +18,7 @@ To the maximum extent permitted by law:
 
 1. Cuesoft is not liable for **indirect, incidental, special,
    consequential or punitive damages**, or for lost profits, revenue,
-   goodwill or data, arising from use of the Websites — whether in
+   goodwill or data, arising from use of the Websites, whether in
    contract, tort (including negligence) or otherwise, and even if advised
    of the possibility.
 2. Cuesoft's **total aggregate liability** arising from the Websites shall
@@ -30,7 +30,7 @@ To the maximum extent permitted by law:
 ## What this page never limits
 
 Nothing in these Terms excludes or limits liability that cannot lawfully
-be excluded or limited — including liability for death or personal injury
+be excluded or limited, including liability for death or personal injury
 caused by negligence, for fraud or fraudulent misrepresentation, or under
 statutory consumer rights in
 [Nigeria](../../jurisdictions/nigeria/),

@@ -27,11 +27,11 @@ import { marked } from 'marked';
 const ROOT = path.join(import.meta.dirname, '..');
 const OUT = path.join(ROOT, '_site');
 
-// Per-repo knobs — the only lines that differ between the three repos.
+// Per-repo knobs: the only lines that differ between the three repos.
 const SITE = process.env.SITE_TITLE || 'Cuesoft Terms of Service';
 const DESCRIPTION =
   process.env.SITE_DESCRIPTION ||
-  'The terms governing the Cuesoft websites and programmes — CueTA™, CueLABS™, CueHIRE™ and Cueprise™ — across Nigeria, the US and the EU/UK.';
+  'The terms governing the Cuesoft websites and programmes (CueTA™, CueLABS™, CueHIRE™ and Cueprise™) across Nigeria, the US and the EU/UK.';
 // Sections in reading order; anything not listed sorts after, alphabetically.
 const SECTION_ORDER = ['websites', 'programmes', 'cueprise', 'legal', 'jurisdictions'];
 // Routes that moved or retired: each key becomes a redirect stub so old
@@ -248,8 +248,8 @@ cpSync(path.join(ROOT, 'assets'), path.join(OUT, 'assets'), {
 writeFileSync(path.join(OUT, 'assets/design-system.css'), packageStylesheet());
 if (existsSync(path.join(ROOT, 'CNAME'))) cpSync(path.join(ROOT, 'CNAME'), path.join(OUT, 'CNAME'));
 if (existsSync(path.join(ROOT, 'llms.txt'))) {
-  // The family's llms.txt is plain ASCII: marks spelled (TM), a spaced dash a colon.
-  const plain = (text) => text.replaceAll('™', '(TM)').replaceAll(' — ', ': ');
+  // The family's llms.txt is plain ASCII: marks spelled (TM).
+  const plain = (text) => text.replaceAll('™', '(TM)');
   const listed = [...(pages.includes('') ? [''] : []), ...groups().flatMap(({ pages: members }) => members)];
   const list = listed
     .map((page) => `- [${plain(meta.get(page).title)}](${BASE}/${page ? `${page}/` : ''})`)
@@ -311,7 +311,7 @@ for (const page of pages) {
   const body = rest.replaceAll('<table>', '<div class="table-wrap"><table>').replaceAll('</table>', '</table></div>');
 
   // Crumbs carry the same names the sidebar shows: a page's H1 where the
-  // segment is a page, the section label otherwise — and only pages link.
+  // segment is a page, the section label otherwise, and only pages link.
   const root = page ? '../'.repeat(page.split('/').length) : './';
   const crumbs = [{ label: SITE, href: root }];
   const crumbList = [{ name: SITE, item: `${BASE}/` }];
@@ -373,7 +373,7 @@ for (const page of pages) {
   });
 
   const values = {
-    // When the page title and site name overlap, the longer one stands alone —
+    // When the page title and site name overlap, the longer one stands alone:
     // never "The Cuesoft Handbook | Cuesoft Handbook". Escaped once for every
     // context it lands in, including meta attributes.
     doc_title: escapeHtml(SITE.includes(title) ? SITE : title.includes(SITE) ? title : `${title} | ${SITE}`),
