@@ -6,8 +6,8 @@
    media — are owned by Cuesoft or its licensors and protected by
    copyright, trademark and other IP laws of Nigeria, the United States
    and other jurisdictions.
-2. **Cuesoft™, CueTA™, CueLABS™, CueHIRE™, Cueprise™, The CueShow™ and
-   The CueBlog™ are Cuesoft marks.** You may reference them accurately in
+2. **Cuesoft™, CueTA™, CueLABS™, CueHIRE™, Cueprise™, Cuelearn™, The
+   CueShow™ and The CueBlog™ are Cuesoft marks.** You may reference them accurately in
    editorial contexts; you may not use them — or confusingly similar marks
    — in a way that implies affiliation, endorsement or origin without
    written permission.

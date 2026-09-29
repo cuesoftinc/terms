@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective date: 30 August 2026**
+**Effective date: 29 September 2026**
 
 These Terms of Service ("Terms") govern your access to and use of the
 websites and programmes operated by **Cuesoft Inc.** (a Delaware
@@ -31,7 +31,8 @@ under a signed agreement or invoice.
   [cuelabs.cuesoft.io](https://cuelabs.cuesoft.io),
   [cuehire.cuesoft.io](https://cuehire.cuesoft.io),
   [storefront.cuesoft.io](https://storefront.cuesoft.io),
-  [clients.cuesoft.io](https://clients.cuesoft.io), and the pages at
+  [clients.cuesoft.io](https://clients.cuesoft.io),
+  [cuelearn.cuesoft.io](https://cuelearn.cuesoft.io), and the pages at
   handbook.cuesoft.io, privacy.cuesoft.io and terms.cuesoft.io.
   A **"Website"** is any one of them.
 - **"CueTA™"** — Cuesoft Talent Academy, our paid AI academy.
@@ -44,6 +45,8 @@ under a signed agreement or invoice.
   We build it at no charge, whether or not the business also licenses
   Cueprise™, and the build itself is delivered under a separate written
   agreement rather than under these Terms.
+- **"Cuelearn™"** — our AI-powered learning platform, licensed to
+  institutions under separate written agreements.
 - **"Client Work"** — Cuesoft's public case-study site at
   [clients.cuesoft.io](https://clients.cuesoft.io), where we describe
   selected product, design and engineering deliveries through CueHIRE™.
