@@ -15,9 +15,6 @@ Releases before 1.1.0 predate this file.
 ### Added
 
 - A web manifest with the family icons.
-
-### Added
-
 - The build fails when the share card is older than the design system.
 
 ## [1.1.0] - 2026-09-29
