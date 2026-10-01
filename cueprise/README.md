@@ -39,11 +39,11 @@ Everything from here governs a licensed deployment rather than the website.
 
 ### Access and authorised users
 
-1. Access to Cueprise™ is provisioned under a Licensee's agreement. If you
+1. Access to Cueprise™ is provisioned under a Licensee’s agreement. If you
    sign in to Cueprise™, you do so as an **authorised user** of a Licensee:
-   your organisation's rules and your organisation's agreement with Cuesoft
-   govern your access. This section governs the Licensee's personnel;
-   shoppers on a Licensee's storefront are not authorised users and are
+   your organisation’s rules and your organisation’s agreement with Cuesoft
+   govern your access. This section governs the Licensee’s personnel;
+   shoppers on a Licensee’s storefront are not authorised users and are
    covered by the Storefronts section below.
 2. Accounts are personal to the authorised user. Do not share credentials;
    the Licensee is responsible for keeping its user list current and for
@@ -59,25 +59,25 @@ Everything from here governs a licensed deployment rather than the website.
    the modules, user counts and environments stated in its agreement, for
    its internal business operations and, where its agreement includes the
    storefront module, for operating its own public storefront, for the
-   agreement's term.
+   agreement’s term.
 2. Except as the agreement expressly allows, no one may: copy, modify or
    create derivative works of the platform; reverse engineer, decompile or
    extract source code except where law permits notwithstanding this
    clause; sublicense, resell, rent or provide the platform to third
-   parties; probe or test the platform's security other than under an
+   parties; probe or test the platform’s security other than under an
    agreed programme; or use the platform to build a competing product.
 3. Usage beyond the licensed scope (modules, seats, environments) is
    invoiced per the agreement or requires an amended order.
 
 ### Licensee data
 
-1. **Licensee data remains the Licensee's.** All data a Licensee or its
+1. **Licensee data remains the Licensee’s.** All data a Licensee or its
    users put into Cueprise™ (records, files, configurations, outputs
    computed from them) belongs to the Licensee. Data collected through a
-   Licensee's storefront, including shoppers' orders and contact details,
+   Licensee’s storefront, including shoppers’ orders and contact details,
    is Licensee data on the same footing.
 2. Cuesoft processes Licensee data only to provide and support the
-   platform, under the agreement's data terms and the
+   platform, under the agreement’s data terms and the
    [Cueprise™ Privacy Notice](https://privacy.cuesoft.io/cueprise/).
 3. On termination or expiry, Licensee data is returned or deleted as the
    agreement provides; Cuesoft does not hold Licensee data hostage to a
@@ -85,7 +85,7 @@ Everything from here governs a licensed deployment rather than the website.
 
 ### The platform
 
-1. **Cueprise™ and all Cuesoft platforms remain Cuesoft's exclusive
+1. **Cueprise™ and all Cuesoft platforms remain Cuesoft’s exclusive
    intellectual property**: software, source code, architecture,
    interfaces, documentation and improvements, including improvements
    suggested by Licensee feedback (which the Licensee licenses to Cuesoft
@@ -98,13 +98,13 @@ Everything from here governs a licensed deployment rather than the website.
 
 ### Storefronts
 
-Cueprise™ can power a Licensee's public online store. A storefront is
-**the Licensee's own service**: it runs under the Licensee's brand, its
-sales are between the shopper and the Licensee, and the Licensee's own
+Cueprise™ can power a Licensee’s public online store. A storefront is
+**the Licensee’s own service**: it runs under the Licensee’s brand, its
+sales are between the shopper and the Licensee, and the Licensee’s own
 terms of sale and privacy notice govern it. Cuesoft is not a party to any
-storefront sale, is not the seller of the Licensee's products, and takes
+storefront sale, is not the seller of the Licensee’s products, and takes
 no payment from shoppers; online storefront payments are processed by
-Paystack under the Licensee's arrangement with it. How shopper data is
+Paystack under the Licensee’s arrangement with it. How shopper data is
 handled inside the platform is described in the
 [Cueprise™ Privacy Notice](https://privacy.cuesoft.io/cueprise/).
 
@@ -116,7 +116,7 @@ or payable through the Websites.**
 
 ### Confidentiality, liability, law
 
-The licensing agreement's confidentiality, warranty, indemnity,
+The licensing agreement’s confidentiality, warranty, indemnity,
 limitation-of-liability, term, termination and governing-law clauses govern
 the Cueprise™ relationship. Where the agreement is silent, the
 [liability](../legal/liability/) and

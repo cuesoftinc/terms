@@ -2,7 +2,7 @@
 
 1. Where your engagement with Cuesoft exposes you to non-public
    information (as a learner, intern, contractor, client or licensee),
-   your signed agreement's confidentiality terms apply and prevail.
+   your signed agreement’s confidentiality terms apply and prevail.
 2. In the absence of a signed agreement, you agree to keep confidential
    any information that is marked confidential or is obviously
    confidential from its nature or the circumstances of disclosure, to use

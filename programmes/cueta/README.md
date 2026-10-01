@@ -12,7 +12,7 @@ agreement prevails over this page wherever they differ.
    is requested before it, and the call carries no obligation on either
    side.
 3. Admission decisions are made by the CueTA™ leadership on the
-   application and the consultation, and are at Cuesoft's discretion.
+   application and the consultation, and are at Cuesoft’s discretion.
    Application decisions are made by humans, not automated systems.
 4. You must be at least 18 years old to apply. Applying on behalf of a
    team (Tier 1) requires authority to bind the organisation you name.
@@ -32,7 +32,7 @@ agreement prevails over this page wherever they differ.
 ## Refunds and deferrals
 
 1. Tuition is **non-refundable once a cohort begins**, except in
-   documented exceptional cases at Cuesoft's discretion or where required
+   documented exceptional cases at Cuesoft’s discretion or where required
    by applicable consumer law (see the
    [jurisdiction pages](../../jurisdictions/nigeria/)).
 2. Before a cohort begins, refund requests are honoured in full, less any
@@ -63,7 +63,7 @@ agreement prevails over this page wherever they differ.
    platform. You may use them for your own learning during and after the
    programme; you may not reproduce, redistribute, resell or teach from
    them without written permission.
-3. Contributions you make to Cuesoft's open-source products follow the
+3. Contributions you make to Cuesoft’s open-source products follow the
    licence and agreement covering that contribution.
 4. Cuesoft may name you as an alumnus and, with your consent, showcase
    your project work; you may withdraw that consent at any time.

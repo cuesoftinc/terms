@@ -18,7 +18,7 @@ Republic of Nigeria**, without regard to conflict-of-laws principles.
 2. **Arbitration.** A dispute not resolved by negotiation is referred to
    binding arbitration before a **single arbitrator** under the
    **Arbitration and Mediation Act 2023**. The seat of arbitration is
-   **Lagos, Nigeria**; the language is English; the arbitrator's award is
+   **Lagos, Nigeria**; the language is English; the arbitrator’s award is
    final and binding on both parties, and judgment on it may be entered in
    any court of competent jurisdiction.
 3. **What survives for the courts.** Either party may seek urgent interim
@@ -35,5 +35,5 @@ Federal Competition and Consumer Protection Commission.
 ## Data protection
 
 Personal data processing subject to Nigerian law is described in the
-[Privacy Policy's Nigeria section](https://privacy.cuesoft.io/jurisdictions/nigeria/),
+[Privacy Policy’s Nigeria section](https://privacy.cuesoft.io/jurisdictions/nigeria/),
 under the Nigeria Data Protection Act 2023.

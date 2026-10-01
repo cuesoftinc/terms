@@ -13,7 +13,7 @@ individual candidates.
 
 ## Enquiries
 
-1. The website's contact form starts a conversation: it does not create
+1. The website’s contact form starts a conversation: it does not create
    an engagement, a reservation of capacity, or any obligation.
 2. Enquiry information is used as the
    [Privacy Policy](https://privacy.cuesoft.io) describes.
@@ -30,7 +30,7 @@ individual candidates.
    escalation paths) are those stated in the signed agreement: nothing on
    the website constitutes a service-level commitment.
 4. Client materials and data shared during an engagement are handled under
-   the engagement's confidentiality and data terms.
+   the engagement’s confidentiality and data terms.
 
 ## No guarantees on the website
 
@@ -38,4 +38,4 @@ Nothing on the CueHIRE™ website promises hiring outcomes, delivery dates,
 placements, rates or salaries, to companies or to candidates. Talent
 recommended through CueHIRE™ (including CueTA™ alumni and CueLABS™
 interns) is put forward on merit, and every engagement decision is the
-client's own.
+client’s own.

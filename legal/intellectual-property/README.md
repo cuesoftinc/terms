@@ -30,10 +30,10 @@ it.
   publishes open-source work under MIT: see the
   [CueLABS™ terms](../../programmes/cuelabs/).
 - **Client and contractor IP** follows the signed agreement: client
-  deliverables transfer on payment as the agreement states; Cuesoft's
-  pre-existing tools, libraries and know-how remain Cuesoft's.
-- **Cueprise™** remains Cuesoft's exclusive property; licensee data
-  remains the licensee's: see the
+  deliverables transfer on payment as the agreement states; Cuesoft’s
+  pre-existing tools, libraries and know-how remain Cuesoft’s.
+- **Cueprise™** remains Cuesoft’s exclusive property; licensee data
+  remains the licensee’s: see the
   [Cueprise™ Terms](../../cueprise/).
 
 ## Infringement notices
