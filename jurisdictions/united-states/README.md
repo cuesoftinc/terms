@@ -30,7 +30,7 @@ agreement is silent.
 
 Some US states grant consumers rights that cannot be waived by contract,
 including warranty rights and remedies under state consumer-protection
-statutes. Nothing in these Terms limits those rights, and where a state's
+statutes. Nothing in these Terms limits those rights, and where a state’s
 law makes a provision of these Terms unenforceable as to you, the
 [severability clause](../../legal/general/) applies.
 
@@ -38,4 +38,4 @@ law makes a provision of these Terms unenforceable as to you, the
 
 US state privacy rights (including California CCPA/CPRA rights) are
 described in the
-[Privacy Policy's United States section](https://privacy.cuesoft.io/jurisdictions/united-states/).
+[Privacy Policy’s United States section](https://privacy.cuesoft.io/jurisdictions/united-states/).

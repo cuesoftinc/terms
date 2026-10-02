@@ -9,8 +9,8 @@ governs each internship and prevails over this page wherever they differ.
 1. Applications are made on the CueLABS™ website and create no contract;
    an internship exists only when both parties sign the internship
    agreement.
-2. Selection is at Cuesoft's discretion, on the application, the
-   candidate's public work and any assessment conversation. Decisions are
+2. Selection is at Cuesoft’s discretion, on the application, the
+   candidate’s public work and any assessment conversation. Decisions are
    made by humans.
 3. You must be at least 18 years old to apply.
 
@@ -20,13 +20,13 @@ governs each internship and prevails over this page wherever they differ.
    governed by a signed internship agreement. They create **no employment
    relationship**: no wages, benefits, leave entitlements or employment
    rights arise, in any jurisdiction.
-2. **Data allowance.** Cuesoft covers interns' connectivity costs through
+2. **Data allowance.** Cuesoft covers interns’ connectivity costs through
    a monthly data allowance stated in the internship agreement.
 3. **Term and notice.** Internships run for the fixed term stated in the
    agreement, three or six months, and either party may end one on the
    notice the agreement states.
 4. **What interns get.** Supervised production experience on live,
-   MIT-licensed products with public commit histories under the intern's
+   MIT-licensed products with public commit histories under the intern’s
    own GitHub identity; sprint-based mentorship against the published
    [engineering standard](https://github.com/cuesoftinc/oss-engineering-standards);
    and a written performance record at mid-term and end of term.
@@ -39,10 +39,10 @@ governs each internship and prevails over this page wherever they differ.
 1. Work product created during an internship is assigned to Cuesoft under
    the internship agreement.
 2. For the open-source products, Cuesoft publishes that work under the MIT
-   licence: the intern's authorship remains visible in the public commit
+   licence: the intern’s authorship remains visible in the public commit
    history.
 3. Nothing in the programme assigns work an intern creates outside the
-   internship's scope, on their own time and equipment.
+   internship’s scope, on their own time and equipment.
 
 ## Conduct and confidentiality
 

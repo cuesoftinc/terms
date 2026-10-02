@@ -47,12 +47,12 @@ under a signed agreement or invoice.
   agreement rather than under these Terms.
 - **"Cuelearn™"**: our AI-powered learning platform, licensed to
   institutions under separate written agreements.
-- **"Client Work"**: Cuesoft's public case-study site at
+- **"Client Work"**: Cuesoft’s public case-study site at
   [clients.cuesoft.io](https://clients.cuesoft.io), where we describe
   selected product, design and engineering deliveries through CueHIRE™.
   It is informational only: the site carries no accounts, contact forms or
   payments, and reading it creates no engagement or obligation. Case studies
-  may link to a client's live website or to a public repository; those
+  may link to a client’s live website or to a public repository; those
   destinations operate under their own terms.
 - **"Ace"**: the AI assistant available on the Websites.
 - **"You"**: anyone who uses a Website or participates in a Cuesoft
@@ -62,11 +62,11 @@ under a signed agreement or invoice.
 
 | Section | What it covers |
 | --- | --- |
-| [Using the Websites](websites/) | Acceptable use, content, third-party links, and [Ace](websites/ace/). |
-| Programmes | [CueTA™](programmes/cueta/), [CueLABS™](programmes/cuelabs/), [CueHIRE™](programmes/cuehire/) and the [media properties](programmes/media/). |
+| [Using the Websites](websites/) | Acceptable use, content, third-party links, and Ace. |
+| [Programmes](programmes/cuehire/) | CueTA™, CueLABS™, CueHIRE™ and the media properties. |
 | [Cueprise™ Terms](cueprise/) | A standalone document covering the Cueprise™ website and the licensed platform behind it. |
-| Legal terms | [Intellectual property](legal/intellectual-property/), [confidentiality](legal/confidentiality/), [liability](legal/liability/), [termination and force majeure](legal/termination/), and the [general clauses](legal/general/). |
-| Jurisdictions | Your governing law and forum in [Nigeria](jurisdictions/nigeria/), the [United States](jurisdictions/united-states/) and the [EU/UK](jurisdictions/eu-uk/). |
+| [Legal terms](legal/confidentiality/) | Intellectual property, confidentiality, liability, termination and force majeure, and the general clauses. |
+| [Jurisdictions](jurisdictions/eu-uk/) | Your governing law and forum in Nigeria, the United States and the EU/UK. |
 
 ## Privacy
 
