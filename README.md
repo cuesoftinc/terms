@@ -61,13 +61,13 @@ under a signed agreement or invoice.
 
 ## How these Terms are organised
 
-| Section | What it covers |
-| --- | --- |
-| [Using the Websites](websites/) | Acceptable use, content, third-party links, and Ace. |
-| [Programmes](programmes/cuehire/) | CueTA™, CueLABS™, CueHIRE™ and the media properties. |
-| [Cueprise™ Terms](cueprise/) | A standalone document covering the Cueprise™ website and the licensed platform behind it. |
+| Section                               | What it covers                                                                                             |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [Using the Websites](websites/)       | Acceptable use, content, third-party links, and Ace.                                                       |
+| [Programmes](programmes/cuehire/)     | CueTA™, CueLABS™, CueHIRE™ and the media properties.                                                       |
+| [Cueprise™ Terms](cueprise/)          | A standalone document covering the Cueprise™ website and the licensed platform behind it.                  |
 | [Legal terms](legal/confidentiality/) | Intellectual property, confidentiality, liability, termination and force majeure, and the general clauses. |
-| [Jurisdictions](jurisdictions/eu-uk/) | Your governing law and forum in Nigeria, the United States and the EU/UK. |
+| [Jurisdictions](jurisdictions/eu-uk/) | Your governing law and forum in Nigeria, the United States and the EU/UK.                                  |
 
 ## Privacy
 
