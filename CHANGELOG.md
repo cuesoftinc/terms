@@ -6,6 +6,13 @@ versions follow [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 Releases before 1.1.0 predate this file.
 
+## [Unreleased]
+
+### Fixed
+
+- Theme initialisation survives formatted document templates.
+- Formatting checks enforce consistent repository layout.
+
 ## [1.2.10] - 2026-10-03
 
 ### Changed
@@ -72,7 +79,6 @@ Releases before 1.1.0 predate this file.
 ### Fixed
 
 - The Websites definition names account.cuesoft.io.
-
 
 ## [1.2.1] - 2026-10-02
 
