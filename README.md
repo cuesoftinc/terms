@@ -18,11 +18,12 @@ contractor agreement, an engagement proposal or a licence), that agreement
 governs its subject matter and prevails over these Terms wherever they
 differ.
 
-**No payment is ever taken on our websites.** The Websites carry no
-checkout and request no card details. Any pricing that applies to you is
-stated on the relevant page (CueTA™ tuition appears only on its
-application page) or in a written proposal, and is transacted off-site
-under a signed agreement or invoice.
+**Payment is taken only for CueTA™ enrolment, and only through your Cuesoft account.**
+The Websites otherwise carry no checkout and request no card details. When you
+enrol in a CueTA™ course, you pay by card, by the month, using a card saved on
+your Cuesoft account at account.cuesoft.io. Cuesoft’s websites do not store your card
+details. Any other pricing that applies to you is stated on the relevant page or in a
+written proposal, and is transacted off-site under a signed agreement or invoice.
 
 ## Definitions
 
