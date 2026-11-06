@@ -25,6 +25,9 @@ your Cuesoft account at account.cuesoft.io. Cuesoft’s websites do not store yo
 details. Any other pricing that applies to you is stated on the relevant page or in a
 written proposal, and is transacted off-site under a signed agreement or invoice.
 
+Apparule orders are paid too, on Paystack’s checkout, under the
+[Apparule Terms](apparule/).
+
 ## Definitions
 
 - **"Websites"**: [cuesoft.io](https://cuesoft.io),
@@ -62,13 +65,16 @@ written proposal, and is transacted off-site under a signed agreement or invoice
 
 ## How these Terms are organised
 
-| Section                               | What it covers                                                                                             |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| [Using the Websites](websites/)       | Acceptable use, content, third-party links, and Ace.                                                       |
-| [Programmes](programmes/cuehire/)     | CueTA™, CueLABS™, CueHIRE™ and the media properties.                                                       |
-| [Cueprise™ Terms](cueprise/)          | A standalone document covering the Cueprise™ website and the licensed platform behind it.                  |
-| [Legal terms](legal/confidentiality/) | Intellectual property, confidentiality, liability, termination and force majeure, and the general clauses. |
-| [Jurisdictions](jurisdictions/eu-uk/) | Your governing law and forum in Nigeria, the United States and the EU/UK.                                  |
+| Section                               | What it covers                                                                                                    |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [Using the Websites](websites/)       | Acceptable use, content, third-party links, and Ace.                                                              |
+| [Programmes](programmes/cuehire/)     | CueTA™, CueLABS™, CueHIRE™ and the media properties.                                                              |
+| [Cueprise™ Terms](cueprise/)          | A standalone document covering the Cueprise™ website and the licensed platform behind it.                         |
+| [Apparule Terms](apparule/)           | Our body-measurement and designer marketplace app: accounts, measurement estimates, orders, payments and payouts. |
+| [Expendit Terms](expendit/)           | Our income, expense and tax app: tax estimates, imports and AI.                                                   |
+| [Upstat Terms](upstat/)               | Our monitoring and status service: monitoring, alerts and the visitor events you send.                            |
+| [Legal terms](legal/confidentiality/) | Intellectual property, confidentiality, liability, termination and force majeure, and the general clauses.        |
+| [Jurisdictions](jurisdictions/eu-uk/) | Your governing law and forum in Nigeria, the United States and the EU/UK.                                         |
 
 ## Privacy
 

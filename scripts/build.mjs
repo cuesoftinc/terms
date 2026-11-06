@@ -48,6 +48,9 @@ const SECTION_ORDER = [
   'websites',
   'programmes',
   'cueprise',
+  'apparule',
+  'expendit',
+  'upstat',
   'legal',
   'jurisdictions',
 ];
