@@ -6,6 +6,14 @@ versions follow [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 Releases before 1.1.0 predate this file.
 
+## [Unreleased]
+
+### Added
+
+- Apparule terms for measurements, orders, payments and payouts.
+- Expendit terms for tax estimates, imports and AI.
+- Upstat terms for monitoring, alerts and visitor events.
+
 ## [1.2.12] - 2026-10-05
 
 ### Fixed
