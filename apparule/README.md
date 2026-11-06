@@ -17,9 +17,7 @@ data is set out in the
    think someone else is using it.
 2. You can use Apparule from the age of **13**. If you are under 18, you
    may use it only with a parent’s or guardian’s agreement, and they
-   accept these terms on your behalf. Users under 18 may commission and
-   pay for outfits with that agreement; selling as a designer and
-   receiving payouts needs you to be **18 or older**.
+   accept these terms on your behalf.
 3. You can delete your account from your settings once no order is open
    and no payout is pending.
 
