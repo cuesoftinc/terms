@@ -16,7 +16,7 @@ Releases before 1.1.0 predate this file.
 
 ### Changed
 
-- Design system updated to 1.50.1.
+- Design system updated to 1.50.2.
 - CueTA enrol and pay wording follows the approved text.
 - The footer link to cuesoft.io reads Cuesoft: the company.
 
