@@ -46,17 +46,23 @@ const DESCRIPTION =
 // Sections in reading order; anything not listed sorts after, alphabetically.
 const SECTION_ORDER = [
   'websites',
-  'programmes',
+  'divisions',
   'cueprise',
   'apparule',
   'expendit',
   'upstat',
+  'cuelearn',
   'legal',
   'jurisdictions',
 ];
 // Routes that moved or retired: each key becomes a redirect stub so old
 // bookmarks and inbound links keep landing.
-const REDIRECTS = {};
+const REDIRECTS = {
+  'programmes/cuehire': 'divisions/cuehire',
+  'programmes/cuelabs': 'divisions/cuelabs',
+  'programmes/cueta': 'divisions/cueta',
+  'programmes/media': 'divisions/media',
+};
 
 const THEME_KEY = 'cuesoft-theme';
 const ASSETS = '/assets/design-system';
