@@ -6,11 +6,10 @@ agreement prevails over this page wherever they differ.
 
 ## Applying
 
-1. Admission starts with an application on the CueTA™ website. Submitting
-   an application creates no contract: it is a request to be considered.
-2. Every application begins with a **free consultation call**. No payment
-   is requested before it, and the call carries no obligation on either
-   side.
+1. Admission starts on the CueTA™ website. Submitting an application creates
+   no contract: it is a request to be considered.
+2. A **free consultation call** is available before you pay. No payment is
+   requested before it, and the call carries no obligation on either side.
 3. Admission decisions are made by the CueTA™ leadership on the
    application and the consultation, and are at Cuesoft’s discretion.
    Application decisions are made by humans, not automated systems.
@@ -19,15 +18,19 @@ agreement prevails over this page wherever they differ.
 
 ## Tuition and payment
 
-1. CueTA™ is a paid academy with **tiered tuition**. The current tiers and
-   amounts are stated only on the application page of the CueTA™ website;
-   no other page or channel states pricing.
+1. CueTA™ is a paid academy with **tiered tuition**. The current tiers and amounts
+   are stated on the tiers pages of the CueTA™ website.
 2. Team enrolments under Tier 1 are priced per staff member.
-3. Tuition is invoiced and paid off-site under your offer of admission or
-   invoice: **never through the website**. The website takes no payment
-   and stores no payment details.
-4. An offer of admission lapses if the tuition it states is not paid by
-   the date it states; a lapsed offer creates no obligation.
+3. **Enrolling and paying.** You enrol in a course while signed in to your Cuesoft
+   account. You pay by card, by the month, with a card saved on your account. Your
+   first week of content opens when you are enrolled, and a new week opens every week.
+4. **If a payment fails.** Your next weekly release pauses until payment succeeds.
+   Content already released stays readable. If payment has not succeeded by the end
+   of the grace period stated on the payment screen, your enrolment is revoked.
+5. **Cancelling.** You can cancel your subscription at any time from your account.
+   You are not charged again, and your courses stay open until the end of the paid period.
+6. Where you are admitted under an offer of admission or invoice, that document governs
+   payment and prevails over this section.
 
 ## Refunds and deferrals
 

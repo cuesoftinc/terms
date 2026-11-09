@@ -6,13 +6,23 @@ versions follow [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 Releases before 1.1.0 predate this file.
 
-## [Unreleased]
+## [1.3.0] - 2026-11-07
 
 ### Added
 
 - Apparule terms for measurements, orders, payments and payouts.
 - Expendit terms for tax estimates, imports and AI.
 - Upstat terms for monitoring, alerts and visitor events.
+
+### Changed
+
+- Design system updated to 1.49.0.
+- CueTA enrol and pay wording follows the approved text.
+- The footer link to cuesoft.io reads Cuesoft: the company.
+
+### Fixed
+
+- The theme loads before first paint with no flash.
 
 ## [1.2.12] - 2026-10-05
 
