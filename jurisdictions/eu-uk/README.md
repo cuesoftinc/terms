@@ -30,7 +30,7 @@ EU/EEA or UK:
   for a service contracted at a distance, that right and its conditions
   (including its loss on fully-performed services you asked to start
   early) are stated in the offer of admission; the
-  [refund terms](../../programmes/cueta/) operate alongside it, and the
+  [refund terms](../../divisions/cueta/) operate alongside it, and the
   more protective provision prevails.
 
 ## Out-of-court dispute resolution
