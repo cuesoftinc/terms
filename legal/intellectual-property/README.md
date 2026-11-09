@@ -25,10 +25,10 @@ it.
 ## Programme and engagement IP
 
 - **CueTA™ learners** own their project work; Cuesoft owns curriculum and
-  teaching materials: see the [CueTA™ terms](../../programmes/cueta/).
+  teaching materials: see the [CueTA™ terms](../../divisions/cueta/).
 - **CueLABS™ interns** assign internship work product to Cuesoft, which
   publishes open-source work under MIT: see the
-  [CueLABS™ terms](../../programmes/cuelabs/).
+  [CueLABS™ terms](../../divisions/cuelabs/).
 - **Client and contractor IP** follows the signed agreement: client
   deliverables transfer on payment as the agreement states; Cuesoft’s
   pre-existing tools, libraries and know-how remain Cuesoft’s.

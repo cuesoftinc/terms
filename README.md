@@ -68,11 +68,12 @@ Apparule orders are paid too, on Paystack’s checkout, under the
 | Section                               | What it covers                                                                                                    |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | [Using the Websites](websites/)       | Acceptable use, content, third-party links, and Ace.                                                              |
-| [Programmes](programmes/cuehire/)     | CueTA™, CueLABS™, CueHIRE™ and the media properties.                                                              |
+| [Divisions](divisions/cuehire/)       | CueTA™, CueLABS™, CueHIRE™ and the media properties.                                                              |
 | [Cueprise™ Terms](cueprise/)          | A standalone document covering the Cueprise™ website and the licensed platform behind it.                         |
 | [Apparule Terms](apparule/)           | Our body-measurement and designer marketplace app: accounts, measurement estimates, orders, payments and payouts. |
 | [Expendit Terms](expendit/)           | Our income, expense and tax app: tax estimates, imports and AI.                                                   |
 | [Upstat Terms](upstat/)               | Our monitoring and status service: monitoring, alerts and the visitor events you send.                            |
+| [Cuelearn™ Terms](cuelearn/)          | Our learning platform for institutions: the website and the licensed platform.                                    |
 | [Legal terms](legal/confidentiality/) | Intellectual property, confidentiality, liability, termination and force majeure, and the general clauses.        |
 | [Jurisdictions](jurisdictions/eu-uk/) | Your governing law and forum in Nigeria, the United States and the EU/UK.                                         |
 
