@@ -1,4 +1,4 @@
-# CueLABS™: Open-source Internship Terms
+# CueLABS™: Open-Source Internship Terms
 
 These terms govern applications to and participation in CueLABS™, the
 Cuesoft open-source internship programme. The signed internship agreement

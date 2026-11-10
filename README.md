@@ -63,9 +63,9 @@ Apparule orders are paid too, on Paystack’s checkout, under the
 - **"You"**: anyone who uses a Website or participates in a Cuesoft
   programme.
 
-## How these Terms are organised
+## How these terms are organised
 
-| Section                               | What it covers                                                                                                    |
+| Section                               | What It Covers                                                                                                    |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | [Using the Websites](websites/)       | Acceptable use, content, third-party links, and Ace.                                                              |
 | [Divisions](divisions/cuehire/)       | CueTA™, CueLABS™, CueHIRE™ and the media properties.                                                              |
@@ -74,7 +74,7 @@ Apparule orders are paid too, on Paystack’s checkout, under the
 | [Expendit Terms](expendit/)           | Our income, expense and tax app: tax estimates, imports and AI.                                                   |
 | [Upstat Terms](upstat/)               | Our monitoring and status service: monitoring, alerts and the visitor events you send.                            |
 | [Cuelearn™ Terms](cuelearn/)          | Our learning platform for institutions: the website and the licensed platform.                                    |
-| [Legal terms](legal/confidentiality/) | Intellectual property, confidentiality, liability, termination and force majeure, and the general clauses.        |
+| [Legal Terms](legal/confidentiality/) | Intellectual property, confidentiality, liability, termination and force majeure, and the general clauses.        |
 | [Jurisdictions](jurisdictions/eu-uk/) | Your governing law and forum in Nigeria, the United States and the EU/UK.                                         |
 
 ## Privacy
@@ -84,7 +84,7 @@ collects and your rights over it, including under Nigerian, EU/UK and US
 law. It is a notice, not a contract, and does not form part of these
 Terms.
 
-## Changes to these terms
+## Changes to These Terms
 
 We may revise these Terms; the effective date above changes when we do, and
 material changes are announced on the affected Websites. Continued use
