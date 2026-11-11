@@ -38,7 +38,9 @@ Apparule orders are paid too, on Paystack’s checkout, under the
   [clients.cuesoft.io](https://clients.cuesoft.io),
   [cuelearn.cuesoft.io](https://cuelearn.cuesoft.io),
   [account.cuesoft.io](https://account.cuesoft.io), the sign-in page, and
-  the pages at handbook.cuesoft.io, privacy.cuesoft.io and terms.cuesoft.io.
+  the pages at [handbook.cuesoft.io](https://handbook.cuesoft.io),
+  [privacy.cuesoft.io](https://privacy.cuesoft.io) and
+  [terms.cuesoft.io](https://terms.cuesoft.io).
   A **"Website"** is any one of them.
 - **"CueTA™"**: Cuesoft Talent Academy, our paid AI academy.
 - **"CueLABS™"**: our open-source internship programme.
