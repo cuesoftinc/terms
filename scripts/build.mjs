@@ -44,7 +44,7 @@ const OUT = path.join(ROOT, '_site');
 const SITE = process.env.SITE_TITLE || 'Cuesoft Terms of Service';
 const DESCRIPTION =
   process.env.SITE_DESCRIPTION ||
-  'The terms governing the Cuesoft websites and programmes (CueTA™, CueLABS™, CueHIRE™ and Cueprise™) across Nigeria, the US and the EU/UK.';
+  'The terms governing the Cuesoft websites, divisions and products (CueTA™, CueLABS™, CueHIRE™, Cueprise™, Apparule, Expendit, Upstat and Cuelearn™) across Nigeria, the US and the EU/UK.';
 // Sections in reading order; anything not listed sorts after, alphabetically.
 const SECTION_ORDER = [
   'websites',

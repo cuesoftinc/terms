@@ -8,6 +8,10 @@ Releases before 1.1.0 predate this file.
 
 ## [Unreleased]
 
+### Fixed
+
+- Search and AI summaries say divisions and name every product.
+
 ## [1.3.1] - 2026-11-16
 
 ### Changed
