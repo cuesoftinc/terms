@@ -5,9 +5,9 @@ const CARD = {
   ground: 'mudcloth',
   eyebrow: 'Cuesoft · Reimagine software',
   headline: 'Terms of Service',
-  sub: 'The terms behind every Cuesoft website and programme.',
+  sub: 'The terms behind every Cuesoft website and division.',
   destination: 'terms.cuesoft.io',
-  alt: 'Cuesoft Terms of Service: the terms behind every Cuesoft website and programme. terms.cuesoft.io',
+  alt: 'Cuesoft Terms of Service: the terms behind every Cuesoft website and division. terms.cuesoft.io',
 };
 
 export default CARD;
