@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective date: 2 October 2026**
+**Effective date: 18 November 2026**
 
 These Terms of Service ("Terms") govern your access to and use of the
 websites and programmes operated by **Cuesoft Inc.** (a Delaware
@@ -41,7 +41,10 @@ Apparule orders are paid too, on Paystack’s checkout, under the
   the pages at [handbook.cuesoft.io](https://handbook.cuesoft.io),
   [privacy.cuesoft.io](https://privacy.cuesoft.io) and
   [terms.cuesoft.io](https://terms.cuesoft.io).
-  A **"Website"** is any one of them.
+  A **"Website"** is any one of them. The platforms behind Cueprise™ (its
+  consoles) and Cuelearn™ ([canvas.cuesoft.io](https://canvas.cuesoft.io)) are
+  governed by their own terms: the [Cueprise™ Terms](cueprise/) and the
+  [Cuelearn™ Terms](cuelearn/).
 - **"CueTA™"**: Cuesoft Talent Academy, our paid AI academy.
 - **"CueLABS™"**: our open-source internship programme.
 - **"CueHIRE™"**: the Cuesoft Talent and Project Management Agency.
@@ -61,7 +64,8 @@ Apparule orders are paid too, on Paystack’s checkout, under the
   payments, and reading it creates no engagement or obligation. Case studies
   may link to a client’s live website or to a public repository; those
   destinations operate under their own terms.
-- **"Ace"**: the AI assistant available on the Websites.
+- **"Ace"**: the AI assistant available on the Websites and in our
+  products: the Cueprise™ consoles and storefronts, and the Cuelearn™ tutor.
 - **"You"**: anyone who uses a Website or participates in a Cuesoft
   programme.
 
