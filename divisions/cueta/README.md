@@ -1,19 +1,16 @@
 # CueTA™: Cuesoft Talent Academy Terms
 
-These terms govern applications to and participation in CueTA™, the paid
+These terms govern enrolment in and participation in CueTA™, the paid
 AI academy operated by Cuesoft. A signed offer of admission or enrolment
 agreement prevails over this page wherever they differ.
 
-## Applying
+## Enrolling
 
-1. Admission starts on the CueTA™ website. Submitting an application creates
-   no contract: it is a request to be considered.
-2. A **free consultation call** is available before you pay. No payment is
-   requested before it, and the call carries no obligation on either side.
-3. Admission decisions are made by the CueTA™ leadership on the
-   application and the consultation, and are at Cuesoft’s discretion.
-   Application decisions are made by humans, not automated systems.
-4. You must be at least 18 years old to apply. Applying on behalf of a
+1. You enrol in a course on the CueTA™ website and pay through your Cuesoft
+   account. There is no application and no consultation call.
+2. Cuesoft may refuse an enrolment, or refund it, at its discretion. A
+   decision to refuse is made by a person, not by an automated system.
+3. You must be at least 18 years old to enrol. Enrolling on behalf of a
    team (Tier 1) requires authority to bind the organisation you name.
 
 ## Tuition and payment
@@ -32,30 +29,30 @@ agreement prevails over this page wherever they differ.
 6. Where you are admitted under an offer of admission or invoice, that document governs
    payment and prevails over this section.
 
-## Refunds and deferrals
+## Refunds and cancelling
 
-1. Tuition is **non-refundable once a cohort begins**, except in
-   documented exceptional cases at Cuesoft’s discretion or where required
-   by applicable consumer law (see the
+1. You can cancel your subscription at any time from your account. Nothing
+   more is charged after you cancel.
+2. The month you have already paid for is not refunded. Your courses stay
+   open until that month ends.
+3. Cuesoft may still refund a payment in documented exceptional cases at its
+   discretion, or where required by applicable consumer law (see the
    [jurisdiction pages](../../jurisdictions/nigeria/)).
-2. Before a cohort begins, refund requests are honoured in full, less any
-   transaction costs actually incurred.
-3. Cuesoft may allow a paid learner to defer to a later cohort once,
-   subject to seat availability; a deferral is not a refund right.
-4. If Cuesoft cancels a cohort and cannot offer an equivalent alternative,
-   tuition already paid for that cohort is refunded in full.
+4. If Cuesoft withdraws a course you are enrolled in and cannot offer an
+   equivalent alternative, the month you have paid for that course is
+   refunded in full.
 
 ## The programme
 
-1. Cohort content, schedule, tooling and instructors may be adjusted to
-   keep the curriculum current; material changes to a running cohort are
-   communicated to that cohort.
-2. Cohort coordination happens through the channels stated at enrolment
+1. Course content, schedule, tooling and instructors may be adjusted to keep
+   the curriculum current; material changes to a course you are enrolled in
+   are communicated to you.
+2. Learner coordination happens through the channels stated at enrolment
    (including WhatsApp groups); the
    [Privacy Policy](https://privacy.cuesoft.io) describes what that
    involves.
 3. **Certificates** are issued on successful completion of a programme, as
-   defined by the completion criteria shared with the cohort. There is no
+   defined by the completion criteria stated for the course. There is no
    separate certificate fee. Certificates state completion: they are not
    professional licences or accreditations.
 
