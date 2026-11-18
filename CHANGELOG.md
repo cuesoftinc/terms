@@ -17,6 +17,9 @@ Releases before 1.1.0 predate this file.
 - CueTA terms say you enrol and pay, with no application or consultation call.
 - Ace covers the assistant in our products as well as the websites.
 - Cueprise and Cuelearn platforms, canvas.cuesoft.io included, follow their own terms.
+### Added
+
+- The terms site asks before loading Google Analytics, and loads it only after you accept.
 
 ## [1.3.3] - 2026-11-16
 
