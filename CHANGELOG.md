@@ -8,6 +8,10 @@ Releases before 1.1.0 predate this file.
 
 ## [Unreleased]
 
+### Added
+
+- The terms site asks before loading Google Analytics, and loads it only after you accept.
+
 ## [1.3.3] - 2026-11-16
 
 ### Changed
