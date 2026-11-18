@@ -39,9 +39,8 @@ matters concerning Cuelearn™.
 3. Cuelearn™ is built to let teachers prepare a course outline, lessons,
    assignments and exams with AI, and to give every learner a path planned
    for them.
-4. The platform itself is not covered by the
-   [Cuelearn™ Privacy Notice](https://privacy.cuesoft.io/cuelearn/), which
-   covers the marketing site.
+4. What we do with data on the platform is set out in the
+   [Cuelearn™ Privacy Notice](https://privacy.cuesoft.io/cuelearn/#the-cuelearn-platform).
 
 ## Contact
 
