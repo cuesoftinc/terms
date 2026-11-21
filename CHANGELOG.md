@@ -10,6 +10,7 @@ Releases before 1.1.0 predate this file.
 
 ### Changed
 
+- Design system updated to 1.96.0.
 - Effective date is 18 November 2026.
 - CueTA refunds follow per-course subscription: cancel any time, the paid month is not refunded.
 - CueTA terms drop cohorts, deferrals and cohort refunds.
