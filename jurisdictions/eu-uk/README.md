@@ -4,6 +4,18 @@ This page states how these Terms operate if you are in the EU, the EEA or
 the UK. Your counterparty is Cuesoft Nigeria Limited (see
 [Nigeria](../nigeria/)) unless a signed agreement says otherwise.
 
+## Governing law
+
+These Terms are governed by the law of Nigeria, as the
+[Nigeria page](../nigeria/) states. If you are a **consumer** in the
+EU/EEA or the UK, that choice never takes away the protection of the
+mandatory consumer law of the country where you live, which the next section
+preserves. If you are not a consumer (for example, an organisation, or
+someone acting for their business), the consumer sections of this page do
+not apply to you and the Nigeria page governs in full. A signed agreement
+that states its own law and forum governs the services it covers, and this
+page fills the gap only where it is silent.
+
 ## Consumer protections are preserved
 
 If you use the Websites or join a programme as a **consumer** in the
@@ -18,6 +30,12 @@ EU/EEA or UK:
    residence, where your local law gives you that right.
 3. The [limitation of liability](../../legal/liability/) applies to you
    only to the extent your local law permits.
+4. In the UK, those protections include your rights under the Consumer
+   Rights Act 2015 for services and digital content. In the EU/EEA they
+   include your rights under the consumer law of your member state.
+5. Our disclaimers, the cap in the limitation of liability and the
+   [indemnity](../../legal/liability/#indemnity) never apply to remove a
+   right you cannot lawfully give up.
 
 ## Distance-contract information
 
@@ -42,6 +60,13 @@ the Commission’s Consumer Redress portal at
 [consumer-redress.ec.europa.eu](https://consumer-redress.ec.europa.eu/dispute-resolution-bodies).
 Our contact for any such procedure is
 [hello@cuesoft.io](mailto:hello@cuesoft.io).
+
+## Complaints to us
+
+To complain about the Websites or a programme, email
+[hello@cuesoft.io](mailto:hello@cuesoft.io) with the facts and what you
+would like us to do. We read every complaint. Making one does not affect your
+right to bring a claim or to use an out-of-court procedure.
 
 ## Privacy
 
