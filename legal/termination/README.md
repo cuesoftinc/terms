@@ -14,6 +14,46 @@
    confidentiality, disclaimers, limitation of liability and disputes)
    survive any termination.
 
+### Suspension pending investigation
+
+1. We may suspend access, without notice where the risk is serious, while we
+   look into a suspected breach of these Terms, a security incident, unlawful
+   conduct or a complaint. A suspension is not a finding that you did wrong.
+2. While you are suspended we may remove or hide content, end sessions and
+   keep records that bear on the matter.
+3. We lift the suspension when the cause is resolved, or we move to terminate
+   as the first item of Termination and suspension allows. Where practical
+   we tell you why, unless the law or a police or regulator request stops
+   us.
+4. Suspension does not pause payment obligations that arise under a signed
+   agreement or an invoice, unless that agreement says it does.
+
+### Effects of termination
+
+When your access to a Website or programme ends, for any reason:
+
+1. your access ends, including your Cuesoft account where it is closed, as
+   [Your Cuesoft account](../../websites/#your-cuesoft-account) describes;
+2. the licences we gave you end, including your licence to browse and any
+   licence to use a platform, programme material or product;
+3. the licence you gave us in your content continues as the
+   [intellectual property terms](../intellectual-property/#licence-you-give-us)
+   say;
+4. rights and obligations that accrued before the end stay in force,
+   including payment obligations for amounts already due, and any refund
+   rights under the relevant product or programme terms (such as the
+   [CueTA™ refund terms](../../divisions/cueta/));
+5. we handle your data as the [Privacy Policy](https://privacy.cuesoft.io)
+   describes, including its retention and deletion terms, and as the
+   relevant signed agreement provides, which prevails where the two differ;
+6. you stop using the Websites and any material we gave you under a
+   licence, and, where a signed agreement requires it, return or delete
+   confidential information; and
+7. the sections that survive under the last item of Termination and
+   suspension above, and the
+   [confidentiality](../confidentiality/) and
+   [general](../general/) clauses, stay in force.
+
 ## Force majeure
 
 Cuesoft is not liable for failure or delay in performance caused by events

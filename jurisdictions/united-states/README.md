@@ -19,6 +19,8 @@ consent to their jurisdiction and waive objections of inconvenient forum.
 Either party may seek urgent interim or injunctive relief in any court of
 competent jurisdiction.
 
+<!-- TODO(owner): do you want a US class-action waiver and a jury-trial waiver? None is stated; the Delaware courts have exclusive jurisdiction and claims may be brought as the law allows. -->
+
 ## Signed agreements
 
 Services provided under a signed agreement (a CueHIRE™ engagement, a
@@ -33,6 +35,13 @@ including warranty rights and remedies under state consumer-protection
 statutes. Nothing in these Terms limits those rights, and where a state’s
 law makes a provision of these Terms unenforceable as to you, the
 [severability clause](../../legal/general/) applies.
+
+## Limits that vary by state
+
+Some states do not allow the exclusion of certain warranties or the limit of
+certain damages. Where yours does not, the
+[disclaimers and limits](../../legal/liability/) apply to you only to the
+extent that your state’s law allows, and the rest of them stand.
 
 ## Privacy
 

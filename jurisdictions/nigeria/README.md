@@ -5,6 +5,13 @@ with **Cuesoft Nigeria Limited**: everyone except users in the United
 States (see [United States](../united-states/)), and subject to the
 consumer protections preserved below and on the [EU/UK page](../eu-uk/).
 
+## Your counterparty
+
+Unless you are in the United States, or a signed agreement names the other
+entity, these Terms are between you and **Cuesoft Nigeria Limited**
+(RC1624434, 39 Alfred Rewane Road, 3rd Floor Mulliner Towers, Ikoyi, Lagos,
+Nigeria), as the [main page](../../) states.
+
 ## Governing law
 
 These Terms are governed by and construed under the laws of the **Federal
@@ -24,6 +31,17 @@ Republic of Nigeria**, without regard to conflict-of-laws principles.
 3. **What survives for the courts.** Either party may seek urgent interim
    or injunctive relief from a court of competent jurisdiction, and
    nothing here prevents proceedings to enforce an award.
+4. **Notice of a dispute.** Written notice of a dispute is sent to
+   [hello@cuesoft.io](mailto:hello@cuesoft.io) or to the registered address
+   above, as the [General Clauses](../../legal/general/) provide, and the
+   thirty days run from its receipt.
+
+## Signed agreements
+
+Services provided under a signed agreement (a CueHIRE™ engagement, a
+Cueprise™ licence, an offer of admission) are governed by the law and forum
+stated in that agreement; this page fills the gap only where the agreement
+is silent.
 
 ## Consumer protection
 

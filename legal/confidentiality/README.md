@@ -17,3 +17,22 @@
 5. Cuesoft protects confidential information you share with it (in
    applications, enquiries and engagements) under the same standard and
    under the [Privacy Policy](https://privacy.cuesoft.io).
+6. You may share confidential information only with people who need it for
+   the purpose it was shared for, and who are bound to keep it confidential
+   on terms at least as protective as these. You are responsible for what
+   they do with it.
+7. When we ask, or when your engagement ends, you will return or delete the
+   confidential information you hold and tell us that you have, except for
+   copies you must keep by law or that sit in routine backups, which stay
+   confidential.
+8. Sharing information does not give you any licence or right in it beyond
+   the purpose it was shared for: see the
+   [intellectual property terms](../intellectual-property/).
+9. If you disclose or lose confidential information in breach of this page,
+   tell us promptly at [hello@cuesoft.io](mailto:hello@cuesoft.io). Because
+   damages may not be enough, we may ask a court for urgent injunctive relief,
+   as the [jurisdiction pages](../../jurisdictions/nigeria/) allow.
+10. Nothing here stops you from making a disclosure that the law protects
+    (for example, reporting a crime or a legal breach to a regulator or the
+    police), or from discussing your own personal data with us. Personal data
+    is handled as the [Privacy Policy](https://privacy.cuesoft.io) describes.

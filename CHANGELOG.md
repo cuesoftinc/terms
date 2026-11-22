@@ -8,6 +8,11 @@ Releases before 1.1.0 predate this file.
 
 ## [Unreleased]
 
+### Changed
+
+- The site index sits in the same place on every phone page.
+- Terms now cover every product explicitly, including Cuelearn.
+
 ## [1.3.5] - 2026-11-22
 
 ### Changed
