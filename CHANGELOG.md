@@ -8,6 +8,12 @@ Releases before 1.1.0 predate this file.
 
 ## [Unreleased]
 
+## [1.3.4] - 2026-11-22
+
+### Added
+
+- The terms site asks before loading Google Analytics, and loads it only after you accept.
+
 ### Changed
 
 - Design system updated to 1.96.0.
@@ -18,10 +24,7 @@ Releases before 1.1.0 predate this file.
 - CueTA terms say you enrol and pay, with no application or consultation call.
 - Ace covers the assistant in our products as well as the websites.
 - Cueprise and Cuelearn platforms, canvas.cuesoft.io included, follow their own terms.
-
-### Added
-
-- The terms site asks before loading Google Analytics, and loads it only after you accept.
+- Design system updated to 1.97.0.
 
 ## [1.3.3] - 2026-11-16
 
