@@ -8,6 +8,8 @@ Releases before 1.1.0 predate this file.
 
 ## [Unreleased]
 
+## [1.4.0] - 2026-11-23
+
 ### Added
 
 - An Institution may record a live Cuelearn™ session after telling learners.
