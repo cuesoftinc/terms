@@ -147,7 +147,15 @@ governs each internship and prevails over this page wherever they differ.
 2. Do not put confidential information, secrets, another person’s personal
    data or client data into a third-party AI tool, whose terms you accept
    with the provider.
-   <!-- TODO(owner): which AI tools are approved for CueLABS work, whether interns must disclose AI-assisted contributions, and where the engineering standard says so -->
+3. Our engineering standard says to put no agent attribution in a commit, a
+   pull request, a comment or a release note, so do not add an AI co-author
+   line.
+4. **Approved tools only.** Use only AI tools that Cuesoft provides or
+   approves, such as Claude and GitHub Copilot. Never paste client secrets
+   into any other tool.
+5. **Say what was AI-assisted.** Note AI-assisted work in the pull request
+   description, so your reviewer knows what to check. This is a note for the
+   reviewer, not a co-author line.
 
 ## Conduct and confidentiality
 
@@ -196,9 +204,9 @@ Programme communication happens on Discord; the
 
 1. At the end of term, the written performance record is the record that can
    support a reference.
-2. Cuesoft gives a reference only on your request, and it is an honest
-   account of your time and your public record. Nothing in the programme
-   promises a reference. <!-- TODO(owner): who gives a reference, the form it takes and what it confirms -->
+2. On your request, your supervisor writes you a reference. It is an honest
+   account of your time and your public record, and you get one only if you
+   ask.
 
 ## No job promise
 

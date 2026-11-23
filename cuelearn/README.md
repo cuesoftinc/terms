@@ -196,7 +196,9 @@ Everything from here governs the platform rather than the website.
    replace a Teacher, and it does not know an Institution's rules unless they
    are in the course. Do not type sensitive personal information into Ace.
 7. **Your prompts do not train models.** The AI features run on Google
-   Gemini, and prompts are not used to train models, as the
+   Gemini. When Google's service is busy or unavailable, a text request may
+   be answered by Anthropic's Claude instead. Prompts are not used to train
+   models, as the
    [Cuelearn™ Privacy Notice](https://privacy.cuesoft.io/cuelearn/#the-cuelearn-platform)
    says.
 8. **Who owns AI output.** As between you and Cuesoft, Cuesoft claims no
@@ -250,6 +252,10 @@ Everything from here governs the platform rather than the website.
    anyone outside it.
 3. Do not record, photograph or share a session, or anyone in it, without the
    Institution's permission and the consent of the people recorded.
+4. An Institution may record a live session in Google Meet. It must tell the
+   people in the session before recording starts. A teacher can add the
+   recording's link to the session so its learners can watch it; the platform
+   keeps only that link, and the recording stays with the Institution.
 
 ### Community and messages
 
@@ -348,7 +354,8 @@ Everything from here governs the platform rather than the website.
    - engages only the sub-processors the
      [Cuelearn™ Privacy Notice](https://privacy.cuesoft.io/cuelearn/#sub-processors)
      names, under contracts that impose the same protections, and tells the
-     Institution before it adds or replaces one;
+     Institution at least 30 days before it adds or replaces one, so the
+     Institution can object within that time;
    - helps the Institution answer requests from the people the data is
      about, and with impact assessments and consultations with regulators;
    - tells the Institution without undue delay after it becomes aware of a
@@ -356,8 +363,9 @@ Everything from here governs the platform rather than the website.
      needs for its own legal duties;
    - makes available the information the Institution reasonably needs to
      show that these duties are met; and
-   - returns or deletes Institution data when the agreement ends, unless the
-     law requires Cuesoft to keep it.
+   - when the agreement ends, lets the Institution ask for an export of its
+     data within 90 days, then deletes it, unless the law requires Cuesoft to
+     keep it.
 4. **The Institution's duties.** The Institution is responsible for having a
    lawful basis for the data it puts on the platform, for telling its
    authorised users how their data is used, for the consent of parents or

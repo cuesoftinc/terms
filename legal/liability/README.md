@@ -79,7 +79,7 @@ statutory consumer rights in
 You will indemnify Cuesoft against third-party claims, and the reasonable
 costs of defending them, arising from your breach of the
 [acceptable-use terms](../../websites/) or your unlawful use of the
-Websites.
+Websites, and as set out below.
 
 The indemnity covers, in full, third-party claims, and the losses, damages,
 reasonable legal costs and settlements that follow from them, that arise

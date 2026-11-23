@@ -77,7 +77,11 @@ agreement prevails over this page wherever they differ.
 
 1. The price shown to you before you pay is the price you pay. It states any
    discount and any tax that applies, and taxes are as the price states them.
-   <!-- TODO(owner): whether a price change reaches a running subscription, and how much notice learners get -->
+   A subscription keeps the price you enrolled at until we tell you of a
+   change. If we change the price of your subscription, we email you at
+   least **30 days** before, and the new price applies from the next billing
+   month after that notice. You may cancel before it applies. Tax is added to
+   each charge at the rate in force on the day we make it.
 2. Cards are paid through **Paystack**, our card payment provider. The card
    number, expiry date and security code are typed only into Paystack’s own
    window. The CueTA™ website has no field for them, and Cuesoft never
@@ -200,20 +204,29 @@ agreement prevails over this page wherever they differ.
    course allows it.
 5. A decision to refuse an enrolment is made by a person, not by an
    automated system, as Enrolling says.
-   <!-- TODO(owner): whether any AI feature used in a CueTA course keeps or trains on learner work, so this section can say what happens to it -->
+6. On the Cuelearn™ platform, when an instructor asks for a draft mark, your
+   submission, the brief and the rubric are sent to the AI service. The draft
+   mark and comment are kept as a draft until the instructor accepts or edits
+   them. When you talk to Ace, your messages are sent to the AI service, and
+   the platform keeps the conversation, which only you can open.
+7. The AI service is Google’s Gemini, through Vertex AI. Google says it does
+   not use customer data to train or fine-tune models without prior
+   permission, and that it may log prompts to detect abuse. If Google’s
+   service is busy or unavailable, a text request can be answered by
+   Anthropic’s Claude instead. Anthropic says it does not train on content
+   sent through its API by default. We do not use your work to train a model.
 
-## Live sessions, recordings and learner channels
+## Live sessions and learner channels
 
 1. If a course includes live sessions, join on time, treat others with
    respect and follow the instructor. The
    [anti-harassment policy](https://handbook.cuesoft.io/general/anti-harassment/)
    applies in every session and channel.
-2. Do not record, screenshot, transcribe or share a live session or a
-   recording, including with an AI note-taking tool, without our written
-   permission.
-3. Recordings are Cuesoft’s, as Your work and our materials says. A recording
-   can include the voice, image, name, questions and screen of the people who
-   take part. <!-- TODO(owner): whether and how learner participation is recorded, who can see recordings, how long they are kept and the lawful basis, so the privacy notice says the same -->
+2. Do not record, screenshot, transcribe or share a live session, including
+   with an AI note-taking tool, without our written permission.
+3. Cuesoft never records live sessions. The Cuelearn™ platform makes the
+   Google Meet link, notes the time you open it to join, and lets an
+   instructor mark attendance.
 4. In a learner channel, keep to these terms, do not share other members’
    contact details or messages outside the channel, and never post a
    password, payment detail or other sensitive information. Joining a group
@@ -239,7 +252,9 @@ agreement prevails over this page wherever they differ.
    [Cuelearn™ Terms](../../cuelearn/#certificates) say. A revoked certificate
    shows as revoked on the Verify a Certificate page and no longer stands as
    proof of completion.
-   <!-- TODO(owner): whether a certificate is also revoked after a payment reversal, and whether the holder is told first -->
+   If a payment for the course is reversed, we email the holder, who then
+   has **14 days** to settle it. If it is not settled, we revoke the
+   certificate, and the Verify a Certificate page shows it as revoked.
 6. If your name or the details on your certificate are wrong, tell us at
    [hello@cuesoft.io](mailto:hello@cuesoft.io).
 
@@ -309,7 +324,9 @@ dishonesty) ends participation without refund, after the facts are heard.
    disputes survive the end of your participation, as does the licence in
    Your content and the licence you give us for the records and the
    certificate verification described there.
-   <!-- TODO(owner): whether and how a month already paid is refunded when Cuesoft ends an enrolment for a reason other than misconduct or a withdrawn course -->
+5. If we end your enrolment for a reason other than misconduct or a withdrawn
+   course, we refund the unused part of the month you have paid for, pro
+   rata, within **14 days**.
 
 ## Disclaimers, liability and indemnity
 

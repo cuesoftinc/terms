@@ -8,6 +8,15 @@ Releases before 1.1.0 predate this file.
 
 ## [Unreleased]
 
+### Added
+
+- An Institution may record a live Cuelearn™ session after telling learners.
+
+### Changed
+
+- Placeholders now state our actual providers, periods and contacts.
+- Out-of-date facts about our tools and providers are corrected.
+
 ## [1.3.6] - 2026-11-22
 
 ### Changed

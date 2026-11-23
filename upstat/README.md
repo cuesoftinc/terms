@@ -89,10 +89,11 @@ with data is set out in the
    describes, tells you without undue delay of a breach affecting it, and
    deletes your events when you delete your account.
 5. Cuesoft processes visitor events only on your instructions, which are these
-   terms and the way you set Upstat up, and not for its own purposes. Where
-   the law requires a separate processing agreement, ask at
-   [hello@cuesoft.io](mailto:hello@cuesoft.io).
-   <!-- TODO(owner): whether Cuesoft offers a separate data processing agreement for Upstat, and its terms on sub-processors, audits, assistance with rights requests and international transfers -->
+   terms and the way you set Upstat up, and not for its own purposes. Every
+   Upstat customer accepts the same standard data processing agreement, which
+   Cuesoft publishes and which forms part of these terms. Questions about it
+   go to [hello@cuesoft.io](mailto:hello@cuesoft.io).
+   <!-- TODO(owner): publish the standard Upstat data processing agreement and link it here -->
 6. You are responsible for lawful visitor measurement on your own sites,
    including any notice and consent your law requires, and for not using
    Upstat to track visitors across sites.

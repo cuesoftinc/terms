@@ -19,7 +19,16 @@ consent to their jurisdiction and waive objections of inconvenient forum.
 Either party may seek urgent interim or injunctive relief in any court of
 competent jurisdiction.
 
-<!-- TODO(owner): do you want a US class-action waiver and a jury-trial waiver? None is stated; the Delaware courts have exclusive jurisdiction and claims may be brought as the law allows. -->
+## Individual claims only
+
+Where the law allows, you and Cuesoft each bring a claim only in your own
+individual capacity, and not as a claimant or class member in any class,
+consolidated or representative action.
+
+## Jury-trial waiver
+
+Where the law allows, you and Cuesoft each waive the right to a trial by jury
+in any dispute arising from the Websites or these Terms.
 
 ## Signed agreements
 
