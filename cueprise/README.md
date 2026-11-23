@@ -142,11 +142,14 @@ Everything from here governs a licensed deployment rather than the website.
    engages only the sub-processors the
    [Cueprise™ Privacy Notice](https://privacy.cuesoft.io/cueprise/#sub-processors)
    names, under contracts that impose the same protections, and tells the
-   Licensee before it adds or replaces one; helps the Licensee answer
+   Licensee at least 30 days before it adds or replaces one, so the Licensee
+   can object within that time; helps the Licensee answer
    requests from the people the data is about, and with impact assessments;
    tells the Licensee without undue delay after it becomes aware of a breach
-   affecting Licensee data; and makes available the information the
-   Licensee reasonably needs to show that these duties are met.
+   affecting Licensee data; makes available the information the Licensee
+   reasonably needs to show that these duties are met; and, when the
+   agreement ends, lets the Licensee ask for an export of its data within 90
+   days, then deletes it, unless the law requires Cuesoft to keep it.
 6. **The Licensee’s duties.** The Licensee is the controller of Licensee
    data. It is responsible for having a lawful basis for the data it puts
    into Cueprise™, for telling its staff, customers and shoppers how their
@@ -160,7 +163,9 @@ Everything from here governs a licensed deployment rather than the website.
 1. Ace, the assistant inside a deployment, and the picture tools and drafted
    content that come with it, run on Google’s models, as the
    [Cueprise™ Privacy Notice](https://privacy.cuesoft.io/cueprise/#ai-features)
-   describes. Prompts are not used to train models.
+   describes. When Google's service is busy or unavailable, a text request
+   may be answered by Anthropic's Claude instead. Prompts are not used to
+   train models.
 2. **Ace acts only when you confirm.** Ace takes an action only after you
    confirm it, and you are responsible for the actions you confirm.
 3. **AI output can be wrong.** It can be inaccurate, incomplete or

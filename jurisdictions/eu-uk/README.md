@@ -41,7 +41,7 @@ EU/EEA or UK:
 
 - The trader for EU/UK purposes is identified, with addresses and contact
   details, on the [main page](../../).
-- **Payment is taken only for CueTA™ enrolment, and only through your Cuesoft account.**
+- **Payment is taken only for CueTA™ enrolment and CueHIRE™ invoices, through your Cuesoft account, and for Apparule orders, on Paystack’s checkout.**
   For a paid programme (CueTA™), the price, the service and its duration are
   stated before you commit.
 - Where EU/UK distance-selling law grants you a 14-day withdrawal right

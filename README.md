@@ -18,15 +18,14 @@ contractor agreement, an engagement proposal or a licence), that agreement
 governs its subject matter and prevails over these Terms wherever they
 differ.
 
-**Payment is taken only for CueTA™ enrolment, and only through your Cuesoft account.**
+**Payment is taken only for CueTA™ enrolment and CueHIRE™ invoices, through your Cuesoft account, and for Apparule orders, on Paystack’s checkout.**
 The Websites otherwise carry no checkout and request no card details. When you
 enrol in a CueTA™ course, you pay by card, by the month, using a card saved on
 your Cuesoft account at account.cuesoft.io. Cuesoft’s websites do not store your card
 details. Any other pricing that applies to you is stated on the relevant page or in a
 written proposal, and is transacted off-site under a signed agreement or invoice.
 
-Apparule orders are paid too, on Paystack’s checkout, under the
-[Apparule Terms](apparule/).
+Apparule orders are paid under the [Apparule Terms](apparule/).
 
 ## Eligibility
 

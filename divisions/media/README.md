@@ -60,7 +60,12 @@ Apple Podcasts, YouTube and Medium) under those platforms’ terms.
    them, their business or their products.
 2. The terms on which a guest appears are set by the guest’s own agreement
    with us.
-   <!-- TODO(owner): the guest release terms: consent to record and publish, the licence the guest gives, who owns the recording, whether it may be reused, and how a guest asks for removal -->
+3. **Guest release.** By appearing, a guest consents to being recorded and
+   to the recording being published. The guest grants Cuesoft a worldwide,
+   royalty-free licence to use and reuse their contribution. Cuesoft owns the
+   recording. A guest may ask us to remove an episode that has not yet been
+   published, and we will. We consider a request to remove a published
+   episode case by case.
 
 ## Corrections and concerns
 

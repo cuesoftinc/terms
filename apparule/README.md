@@ -93,7 +93,12 @@ the measurements attached to an order are the ones you approved.
    make that order. The designer must keep them private and must not share
    them or keep them for any other purpose.
 6. A customer may withdraw a request, or reject a quote, before paying.
-   <!-- TODO(owner): what happens when a customer or a designer cancels after payment, and whether partial refunds are ever given; the order lifecycle document says refunds are of the full amount and cancellation after payment is a refund path -->
+   After payment, an order cannot be cancelled in the app. Either party can
+   open a dispute before delivery is confirmed, and our support team then
+   releases the payout or refunds the customer. If the designer has not
+   started within 14 days of payment, the customer is refunded
+   automatically. A paid order that is cancelled is refunded in full. We
+   refund the full amount only. We do not give partial refunds.
 7. We do not endorse any designer or any outfit, and we do not check the
    quality of what a designer makes.
 
@@ -131,7 +136,11 @@ the measurements attached to an order are the ones you approved.
     terms and privacy policy. Card details never enter Apparule, and Cuesoft
     never receives them.
 11. Each designer is responsible for the tax on what they earn, as above.
-    <!-- TODO(owner): what happens to a payout if the customer’s bank reverses the payment (a chargeback), and the effect of a reversal on the order -->
+12. If a customer’s bank reverses a payment, we cancel the order, and any
+    payout already made to the designer is recovered from that designer’s
+    next payouts. Our checks of our payments against Paystack’s records flag
+    a reversal for our team. Paystack handles the bank’s claim under its own
+    terms.
 
 ## Posts and Conduct
 

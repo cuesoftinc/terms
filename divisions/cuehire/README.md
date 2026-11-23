@@ -73,7 +73,9 @@ who is not acting for a business should not use the enquiry form.
    profiles are not commitments. Only the signed agreement binds Cuesoft.
 2. Case studies on [clients.cuesoft.io](https://clients.cuesoft.io) show past
    work. They do not predict what we will deliver for you.
-   <!-- TODO(owner): whether a signed proposal may be revised if an estimate changes, and the change-control process -->
+3. **Change control.** Any change to the scope, price or timeline of an
+   engagement is a written change request that both sides approve before
+   work on it starts. Until then, the signed proposal stands.
 
 ## Client responsibilities
 
@@ -170,7 +172,9 @@ client’s own.
    during an engagement, is as the signed agreement and the talent’s own
    contract with Cuesoft state.
 3. Where an engagement includes referral hiring, the terms for hiring a person
-   we introduced are in the signed agreement. <!-- TODO(owner): any referral fee, non-solicitation or conversion terms the public page should point to; none are published today -->
+   we introduced are in the signed agreement. Conversion and
+   non-solicitation terms are set in each client’s signed agreement, and we
+   publish no figure for them.
 
 ## Confidentiality, data and records
 
@@ -191,9 +195,10 @@ client’s own.
 The [intellectual property terms](../../legal/intellectual-property/) apply:
 deliverables created specifically for you transfer as the signed agreement
 states, and Cuesoft keeps its pre-existing tools, libraries and know-how. The
-CueHIRE™ website and the portal are Cuesoft’s. Whether we may name you or
-describe an engagement in a case study is for the signed agreement to say.
-<!-- TODO(owner): the permission a client gives for a case study on clients.cuesoft.io, and whether the signed agreement carries it -->
+CueHIRE™ website and the portal are Cuesoft’s. We publish a case study about
+an engagement on [clients.cuesoft.io](https://clients.cuesoft.io) only with
+the client’s written approval of its text. That approval does not need to be
+in the signed agreement.
 
 ## Third-party services and AI
 
@@ -202,7 +207,15 @@ describe an engagement in a case study is for the signed agreement to say.
    them and do not warrant them, and a link to one is not an endorsement.
 2. Ace can make mistakes, and its answers are not commitments: see
    [Ace, the Assistant](../../websites/ace/).
-   <!-- TODO(owner): the rules on using AI tools in client deliverables, and whether the client’s materials may go into an AI tool -->
+3. Our people may not put your confidential code, your materials or personal
+   data into an AI tool that Cuesoft has not approved, and they stay
+   responsible for checking that AI-generated code or text is correct and can
+   be used under its licence. See the
+   [handbook](https://handbook.cuesoft.io/policies/intellectual-property/).
+4. **AI in deliverables.** We may use AI tools in your deliverables, always
+   under human review. Your materials go only into AI tools whose terms bar
+   the provider from training on them. You can ask us in writing not to use
+   AI on your project, and we will not.
 
 ## Disclaimers, liability and indemnity
 
